@@ -1,0 +1,71 @@
+
+Total Merge: 185
+Total Collisions: 0
+Loop Speed: 7.333347967985612
+Merge Speed: 6.755696159291583
+[  6.73376619   1.86247753  11.93116902]
+fitness: 185
+
+Total Merge: 218
+Total Collisions: 0
+Loop Speed: 8.474127180910275
+Merge Speed: 7.909085414188949
+[  7.87611244   0.74752309  19.52215324]
+fitness: 218
+
+Total Merge: 456
+Total Collisions: 0
+Loop Speed: 19.1158753607756
+Merge Speed: 14.711885581650602
+[ 19.12841566   3.70938576   9.52622359]
+fitness: 456
+
+Total Merge: 441
+Total Collisions: 0
+Loop Speed: 18.42337679733724
+Merge Speed: 14.291412527470534
+[ 18.42229737   4.67059777  17.14255985]
+fitness: 441
+
+Total Merge: 423
+Total Collisions: 0
+Loop Speed: 17.517810823026053
+Merge Speed: 14.00050327358573
+[ 17.51660619   2.44965963   7.22013374]
+fitness: 423
+
+Total Merge: 51
+Total Collisions: 0
+Loop Speed: 3.0483953423798664
+Merge Speed: 1.7298191740818367
+[  1.60350338   1.73273973  22.27014871]
+fitness: 51
+
+Total Merge: 409
+Total Collisions: 8
+Loop Speed: 17.287073833189435
+Merge Speed: 13.697437723591058
+[ 17.1051955    3.03005456  22.12692388]
+fitness: 345
+
+Total Merge: 532
+Total Collisions: 0
+Loop Speed: 24.23872138945786
+Merge Speed: 14.188517360342752
+[ 24.15218211   2.69910584  24.92236852]
+fitness: 532
+
+Total Merge: 83
+Total Collisions: 0
+Loop Speed: 4.1507500266658965
+Merge Speed: 2.8032435568017626
+[ 2.80324356  1.15013266  5.38100791]
+fitness: 83
+
+Total Merge: 320
+Total Collisions: 0
+Loop Speed: 12.47383444723727
+Merge Speed: 12.121475668921173
+[ 12.13676761   4.73193198   7.94677488]
+fitness: 320
+

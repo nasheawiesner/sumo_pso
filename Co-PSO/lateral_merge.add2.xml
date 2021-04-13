@@ -1,0 +1,45 @@
+<additionals>
+	<rerouter id="rerouter_0" edges="e1" probability="1">
+		<interval begin="0" end="5000">
+			<destProbReroute id="e2"/>
+		</interval>
+	</rerouter>
+
+	<rerouter id="rerouter_1" edges="e2" probability="1">
+		<interval begin="0" end="5000">
+			<destProbReroute id="e1"/>
+		</interval>
+	</rerouter>
+
+	<rerouter id="exit" edges="m1" probability="1">
+		<interval begin="0" end="5000">
+			<destProbReroute id="m7"/>
+		</interval>
+	</rerouter>
+
+	<rerouter id="exit" edges="e10" probability="1" vTypes="krauss">
+		<interval begin="0" end="5000">
+			<destProbReroute id="m1"/>
+		</interval>
+	</rerouter>
+
+	<rerouter id="merge" edges="m7" probability="1">
+		<interval begin="0" end="5000">
+			<destProbReroute id="e1"/>
+		</interval>
+	</rerouter>
+
+	<e1Detector id="det_0" lane="e7_0" pos="125" freq="50" file="det.out.xml" />
+
+	<e1Detector id="det_1" lane="m4_0" pos="50" freq="50" file="det.out.xml" />
+
+	<e2Detector id="det_2" lane="e1_0" pos="0" endPos ="300" freq="50" file="det.out.xml" />
+
+	<!--entryExitDetector id="merge_det" freq="1" file="det.out.xml">
+		<detEntry lane="in_0" pos="0" friendlyPos="True"/>
+		<detExit lane="in_0" pos="1" friendlyPos="True"/>
+	</entryExitDetector-->
+
+</additionals>			
+
+		<!--additional-files value="merge.add.xml"-->

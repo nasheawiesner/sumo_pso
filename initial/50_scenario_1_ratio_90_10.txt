@@ -1,0 +1,87 @@
+1
+ Retrying in 1 seconds
+45/5
+Total Merge: 2515
+Total Collisions: 6
+Merge Speed: 11.981848707521781
+Loop Speed: 24.7537133246672
+2
+ Retrying in 1 seconds
+45/5
+Total Merge: 2404
+Total Collisions: 20
+Merge Speed: 13.481267687653483
+Loop Speed: 24.57415012033207
+3
+ Retrying in 1 seconds
+45/5
+Total Merge: 2355
+Total Collisions: 20
+Merge Speed: 13.689081747479273
+Loop Speed: 24.26506769885182
+4
+ Retrying in 1 seconds
+45/5
+Total Merge: 2419
+Total Collisions: 6
+Merge Speed: 13.966780735476675
+Loop Speed: 24.569098329381713
+5
+ Retrying in 1 seconds
+45/5
+Total Merge: 2413
+Total Collisions: 28
+Merge Speed: 13.436912641898601
+Loop Speed: 24.48421865453993
+6
+ Retrying in 1 seconds
+45/5
+Total Merge: 2471
+Total Collisions: 0
+Merge Speed: 13.806393933792071
+Loop Speed: 24.713743856501594
+7
+ Retrying in 1 seconds
+45/5
+Total Merge: 2376
+Total Collisions: 4
+Merge Speed: 13.925916405360192
+Loop Speed: 24.239151547784235
+8
+ Retrying in 1 seconds
+45/5
+Total Merge: 2443
+Total Collisions: 10
+Merge Speed: 14.041297179571147
+Loop Speed: 24.406005562609153
+9
+ Retrying in 1 seconds
+45/5
+Total Merge: 2524
+Total Collisions: 2
+Merge Speed: 13.785270132941745
+Loop Speed: 24.899131134241195
+10
+ Retrying in 1 seconds
+45/5
+Total Merge: 2639
+Total Collisions: 0
+Merge Speed: 13.847198973114613
+Loop Speed: 24.988087417496345
+
+
+Min Number of Merges: 2355
+Average Number of Merges: 2455.9
+Max Number of Merges: 2639
+
+Min Number of Collisions: 0
+Average Number of Collisions: 9.6
+Max Number of Collisions: 28
+
+Min Merge Speed: 11.981848707521781
+Average Merge Speed: 13.596196814480956
+Max Merge Speed: 14.041297179571147
+
+Min Loop Speed: 24.239151547784235
+Average Loop Speed: 24.589236764640525
+Max Loop Speed: 24.988087417496345

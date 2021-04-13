@@ -1,0 +1,10 @@
+<configuration>
+	<input>
+		<net-file value="lateral_merge.net.xml"/>
+		<route-files value="lateral_merge.rou.xml"/>
+		<additional-files value="lateral_merge.add3.xml"/>
+	</input>
+	<output>
+   		<netstate-dump value="lateral_merge_output.txt" />
+	</output>
+</configuration>	 

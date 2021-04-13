@@ -1,0 +1,82 @@
+Warning: Vehicle '99' performs emergency braking with decel=-11.60 wished=4.50 severity=1.58, time=184.00.
+Warning: Vehicle '99' performs emergency braking with decel=-10.29 wished=4.50 severity=1.29, time=300.00.
+Warning: Vehicle '99' performs emergency braking with decel=-12.46 wished=4.50 severity=1.77, time=411.00.
+Warning: Vehicle '99' performs emergency braking with decel=-13.62 wished=4.50 severity=2.03, time=644.00.
+Warning: Teleporting vehicle '99'; collision with vehicle '10', lane='e10_0', gap=-2.70, time=644.00 stage=move.
+Warning: Vehicle '99' ends teleporting on edge 'e11', time 644.00.
+Warning: Vehicle '99' performs emergency braking with decel=-30.00 wished=4.50 severity=5.67, time=645.00.
+Warning: Vehicle '99' performs emergency braking with decel=-12.92 wished=4.50 severity=1.87, time=721.00.
+Warning: Vehicle '99' performs emergency braking with decel=-9.74 wished=4.50 severity=1.17, time=767.00.
+Warning: Vehicle '99' performs emergency braking with decel=-9.44 wished=4.50 severity=1.10, time=811.00.
+Warning: Vehicle '99' performs emergency braking with decel=-9.77 wished=4.50 severity=1.17, time=829.00.
+Warning: Vehicle '99' performs emergency braking with decel=-14.16 wished=4.50 severity=2.15, time=931.00.
+Warning: Teleporting vehicle '99'; collision with vehicle '9', lane='e4_0', gap=-3.47, time=936.00 stage=move.
+Warning: Vehicle '99' ends teleporting on edge 'e5', time 936.00.
+Warning: Vehicle '99' performs emergency braking with decel=-10.47 wished=4.50 severity=1.33, time=989.00.
+Warning: Vehicle '99' performs emergency braking with decel=-12.80 wished=4.50 severity=1.84, time=1109.00.
+Warning: Vehicle '99' performs emergency braking with decel=-10.99 wished=4.50 severity=1.44, time=1203.00.
+Warning: Vehicle '99' performs emergency braking with decel=-11.90 wished=4.50 severity=1.65, time=1221.00.
+Warning: Vehicle '99' performs emergency braking with decel=-13.12 wished=4.50 severity=1.92, time=1331.00.
+Warning: Teleporting vehicle '99'; collision with vehicle '14', lane='e4_0', gap=-4.34, time=1331.00 stage=move.
+Warning: Vehicle '99' ends teleporting on edge 'e5', time 1331.00.
+Warning: Vehicle '99' performs emergency braking with decel=-12.65 wished=4.50 severity=1.81, time=1629.00.
+Warning: Vehicle '99' performs emergency braking with decel=-11.26 wished=4.50 severity=1.50, time=1963.00.
+Warning: Vehicle '99' performs emergency braking with decel=-11.54 wished=4.50 severity=1.56, time=2070.00.
+Warning: Vehicle '99' performs emergency braking with decel=-13.70 wished=4.50 severity=2.04, time=2087.00.
+Warning: Vehicle '99' performs emergency braking with decel=-12.09 wished=4.50 severity=1.69, time=2197.00.
+Warning: Vehicle '99' performs emergency braking with decel=-14.20 wished=4.50 severity=2.16, time=2301.00.
+Warning: Vehicle '99' performs emergency braking with decel=-11.98 wished=4.50 severity=1.66, time=2317.00.
+Warning: Vehicle '99' performs emergency braking with decel=-9.30 wished=4.50 severity=1.07, time=2440.00.
+Warning: Vehicle '99' performs emergency braking with decel=-12.01 wished=4.50 severity=1.67, time=2560.00.
+Warning: Vehicle '99' performs emergency braking with decel=-12.96 wished=4.50 severity=1.88, time=2614.00.
+Warning: Vehicle '99' performs emergency braking with decel=-13.27 wished=4.50 severity=1.95, time=2678.00.
+Warning: Vehicle '99' performs emergency braking with decel=-13.98 wished=4.50 severity=2.11, time=2777.00.
+Warning: Vehicle '99' performs emergency braking with decel=-13.71 wished=4.50 severity=2.05, time=2795.00.
+Warning: Vehicle '99' performs emergency braking with decel=-10.37 wished=4.50 severity=1.30, time=2828.00.
+Warning: Vehicle '99' performs emergency braking with decel=-13.87 wished=4.50 severity=2.08, time=2901.00.
+Warning: Teleporting vehicle '99'; collision with vehicle '14', lane='e3_0', gap=-6.16, time=2901.00 stage=move.
+Warning: Vehicle '99' ends teleporting on edge 'e4', time 2906.00.
+Warning: Teleporting vehicle '99'; collision with vehicle '14', lane='e4_0', gap=-1.43, time=2939.00 stage=move.
+Warning: Vehicle '99' ends teleporting on edge 'e5', time 2939.00.
+Warning: Vehicle '99' performs emergency braking with decel=-11.70 wished=4.50 severity=1.60, time=2995.00.
+Warning: Vehicle '99' performs emergency braking with decel=-10.44 wished=4.50 severity=1.32, time=3118.00.
+Warning: Vehicle '99' performs emergency braking with decel=-12.00 wished=4.50 severity=1.67, time=3236.00.
+Warning: Teleporting vehicle '99'; collision with vehicle '98', lane='e10_0', gap=-2.01, time=3236.00 stage=move.
+Warning: Vehicle '99' ends teleporting on edge 'e11', time 3236.00.
+Warning: Vehicle '99' performs emergency braking with decel=-30.00 wished=4.50 severity=5.67, time=3237.00.
+Warning: Vehicle '99' performs emergency braking with decel=-13.55 wished=4.50 severity=2.01, time=3305.00.
+Warning: Teleporting vehicle '99'; collision with vehicle '14', lane='e4_0', gap=-2.66, time=3306.00 stage=move.
+Warning: Vehicle '99' ends teleporting on edge 'e5', time 3306.00.
+Warning: Teleporting vehicle '87'; collision with vehicle '99', lane='e5_0', gap=-0.06, time=3308.00 stage=move.
+Warning: Vehicle '87' ends teleporting on edge 'e6', time 3309.00.
+Warning: Vehicle '99' performs emergency braking with decel=-12.22 wished=4.50 severity=1.72, time=3345.00.
+Warning: Vehicle '99' performs emergency braking with decel=-14.12 wished=4.50 severity=2.14, time=3361.00.
+Warning: Teleporting vehicle '99'; collision with vehicle '48', lane='e5_0', gap=-0.06, time=3541.00 stage=move.
+Warning: Vehicle '99' ends teleporting on edge 'e6', time 3541.00.
+Warning: Vehicle '99' performs emergency braking with decel=-13.21 wished=4.50 severity=1.94, time=3565.00.
+Warning: Vehicle '99' performs emergency braking with decel=-9.09 wished=4.50 severity=1.02, time=3581.00.
+Warning: Teleporting vehicle '99'; collision with vehicle '14', lane='e4_0', gap=-2.21, time=3706.00 stage=move.
+Warning: Vehicle '99' ends teleporting on edge 'e5', time 3706.00.
+Warning: Vehicle '99' performs emergency braking with decel=-11.34 wished=4.50 severity=1.52, time=3740.00.
+Warning: Vehicle '99' performs emergency braking with decel=-10.18 wished=4.50 severity=1.26, time=3755.00.
+Warning: Vehicle '99' performs emergency braking with decel=-9.44 wished=4.50 severity=1.10, time=3912.00.
+Warning: Vehicle '99' performs emergency braking with decel=-9.79 wished=4.50 severity=1.18, time=3960.00.
+Warning: Vehicle '99' performs emergency braking with decel=-13.14 wished=4.50 severity=1.92, time=3976.00.
+Warning: Vehicle '99' performs emergency braking with decel=-11.94 wished=4.50 severity=1.65, time=4098.00.
+Warning: Vehicle '99' performs emergency braking with decel=-10.15 wished=4.50 severity=1.26, time=4154.00.
+Warning: Vehicle '99' performs emergency braking with decel=-12.42 wished=4.50 severity=1.76, time=4212.00.
+Warning: Vehicle '99' performs emergency braking with decel=-13.68 wished=4.50 severity=2.04, time=4349.00.
+Warning: Vehicle '99' performs emergency braking with decel=-9.27 wished=4.50 severity=1.06, time=4437.00.
+Warning: Vehicle '99' performs emergency braking with decel=-12.35 wished=4.50 severity=1.74, time=4453.00.
+Warning: Teleporting vehicle '99'; collision with vehicle '91', lane='e10_0', gap=-5.36, time=4453.00 stage=move.
+Warning: Vehicle '99' ends teleporting on edge 'e11', time 4453.00.
+Warning: Vehicle '99' performs emergency braking with decel=-30.00 wished=4.50 severity=5.67, time=4454.00.
+Warning: Vehicle '99' performs emergency braking with decel=-9.24 wished=4.50 severity=1.05, time=4632.00.
+Warning: Teleporting vehicle '99'; collision with vehicle '74', lane='e10_0', gap=-0.43, time=4632.00 stage=move.
+Warning: Vehicle '99' ends teleporting on edge 'e11', time 4632.00.
+Warning: Vehicle '99' performs emergency braking with decel=-30.00 wished=4.50 severity=5.67, time=4633.00.
+Warning: Vehicle '99' performs emergency braking with decel=-12.52 wished=4.50 severity=1.78, time=4711.00.
+Warning: Vehicle '99' performs emergency braking with decel=-10.53 wished=4.50 severity=1.34, time=4746.00.
+Warning: Vehicle '99' performs emergency braking with decel=-12.57 wished=4.50 severity=1.79, time=4790.00.
+Warning: Vehicle '99' performs emergency braking with decel=-12.64 wished=4.50 severity=1.81, time=4805.00.
+Warning: Vehicle '99' performs emergency braking with decel=-9.25 wished=4.50 severity=1.06, time=4930.00.

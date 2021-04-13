@@ -1,0 +1,3682 @@
+10/90
+Total Merge: 3036
+Total Collisions: 0
+Loop Speed: 11.78247628170863
+Merge Speed: 11.765075027976598
+10/90
+Total Merge: 2615
+Total Collisions: 0
+Loop Speed: 9.887133229430392
+Merge Speed: 9.926115707168224
+ Retrying in 1 seconds
+10/90
+Total Merge: 3193
+Total Collisions: 0
+Loop Speed: 23.515210806527758
+Merge Speed: 13.507701392857456
+10/90
+Total Merge: 1746
+Total Collisions: 0
+Loop Speed: 6.4177156099266535
+Merge Speed: 6.409249716441294
+ Retrying in 1 seconds
+10/90
+Total Merge: 2437
+Total Collisions: 0
+Loop Speed: 9.197609643832518
+Merge Speed: 9.216633861639782
+ Retrying in 1 seconds
+10/90
+Total Merge: 1675
+Total Collisions: 0
+Loop Speed: 6.130340917881993
+Merge Speed: 6.138262545155586
+ Retrying in 1 seconds
+10/90
+Total Merge: 535
+Total Collisions: 0
+Loop Speed: 1.7139705013390445
+Merge Speed: 1.7071619428381393
+ Retrying in 1 seconds
+10/90
+Total Merge: 2539
+Total Collisions: 0
+Loop Speed: 9.593868587908016
+Merge Speed: 9.618216945727987
+10/90
+Total Merge: 3194
+Total Collisions: 0
+Loop Speed: 18.126113641081787
+Merge Speed: 13.813093606577652
+10/90
+Total Merge: 1394
+Total Collisions: 0
+Loop Speed: 5.029053649771859
+Merge Speed: 5.0261030229374395
+ Retrying in 1 seconds
+10/90
+Total Merge: 3254
+Total Collisions: 0
+Loop Speed: 12.78321543717167
+Merge Speed: 12.696029279419061
+Iteration 0
+ Retrying in 1 seconds
+10/90
+Total Merge: 2647
+Total Collisions: 0
+Loop Speed: 10.218596815228294
+Merge Speed: 10.210669058339887
+Particle Best for fitness:8.087640287778983
+ Retrying in 1 seconds
+10/90
+Total Merge: 3223
+Total Collisions: 0
+Loop Speed: 22.666747713804266
+Merge Speed: 14.204587751083604
+Particle Best for fitness:8.087640287778983
+ Retrying in 1 seconds
+10/90
+Total Merge: 1987
+Total Collisions: 0
+Loop Speed: 7.417526354984139
+Merge Speed: 7.429448621153652
+Particle Best for fitness:8.087640287778983
+ Retrying in 1 seconds
+10/90
+Total Merge: 2677
+Total Collisions: 0
+Loop Speed: 10.19335981555779
+Merge Speed: 10.204262619555204
+Particle Best for fitness:8.087640287778983
+ Retrying in 1 seconds
+10/90
+Total Merge: 1926
+Total Collisions: 0
+Loop Speed: 7.128506636149185
+Merge Speed: 7.146939376267223
+Particle Best for fitness:8.087640287778983
+ Retrying in 1 seconds
+10/90
+Total Merge: 767
+Total Collisions: 0
+Loop Speed: 2.7000488795941626
+Merge Speed: 2.698347198510437
+Particle Best for fitness:8.087640287778983
+ Retrying in 1 seconds
+10/90
+Total Merge: 2783
+Total Collisions: 0
+Loop Speed: 10.594807110632763
+Merge Speed: 10.622116615655395
+Particle Best for fitness:8.087640287778983
+ Retrying in 1 seconds
+10/90
+Total Merge: 3191
+Total Collisions: 0
+Loop Speed: 17.129046251608365
+Merge Speed: 13.827985309876953
+Particle Best for fitness:8.087640287778983
+ Retrying in 1 seconds
+10/90
+Total Merge: 1648
+Total Collisions: 0
+Loop Speed: 6.034073885718839
+Merge Speed: 6.042216535278935
+Particle Best for fitness:8.087640287778983
+ Retrying in 1 seconds
+10/90
+Total Merge: 3222
+Total Collisions: 0
+Loop Speed: 13.279631864368408
+Merge Speed: 12.90589465425971
+Particle Best for fitness:8.087640287778983
+solution for speed=12.77, min gap=2.75, max merges: 3254, min collisions: 0
+Iteration 1
+10/90
+Total Merge: 2917
+Total Collisions: 0
+Loop Speed: 11.216303455398517
+Merge Speed: 11.207456159380081
+Particle Best for fitness:8.087640287778983
+ Retrying in 1 seconds
+10/90
+Total Merge: 3331
+Total Collisions: 0
+Loop Speed: 21.796940313059316
+Merge Speed: 13.837967218786835
+Particle Best for fitness:8.087640287778983
+ Retrying in 1 seconds
+10/90
+Total Merge: 2247
+Total Collisions: 0
+Loop Speed: 8.408869879274526
+Merge Speed: 8.44207217695462
+Particle Best for fitness:8.11102783819368
+ Retrying in 1 seconds
+10/90
+Total Merge: 2910
+Total Collisions: 0
+Loop Speed: 11.191821297124116
+Merge Speed: 11.191637495372664
+Particle Best for fitness:8.11102783819368
+ Retrying in 1 seconds
+10/90
+Total Merge: 2170
+Total Collisions: 0
+Loop Speed: 8.139097509635594
+Merge Speed: 8.166662864876598
+Particle Best for fitness:8.11102783819368
+ Retrying in 1 seconds
+10/90
+Total Merge: 1019
+Total Collisions: 0
+Loop Speed: 3.6941963654200536
+Merge Speed: 3.7086794809923824
+Particle Best for fitness:8.11102783819368
+ Retrying in 1 seconds
+10/90
+Total Merge: 3005
+Total Collisions: 0
+Loop Speed: 11.593897825203614
+Merge Speed: 11.538904992335308
+Particle Best for fitness:8.11102783819368
+ Retrying in 1 seconds
+10/90
+Total Merge: 3225
+Total Collisions: 0
+Loop Speed: 18.127916064785136
+Merge Speed: 13.834338287838643
+Particle Best for fitness:8.11102783819368
+ Retrying in 1 seconds
+10/90
+Total Merge: 1897
+Total Collisions: 0
+Loop Speed: 7.028820705983811
+Merge Speed: 7.035928782062959
+Particle Best for fitness:8.11102783819368
+ Retrying in 1 seconds
+10/90
+Total Merge: 3365
+Total Collisions: 0
+Loop Speed: 14.274104383272396
+Merge Speed: 13.55855912576885
+Particle Best for fitness:8.11102783819368
+solution for speed=21.76, min gap=2.49, max merges: 3331, min collisions: 0
+Iteration 2
+ Retrying in 1 seconds
+10/90
+Total Merge: 3150
+Total Collisions: 0
+Loop Speed: 12.221165116501476
+Merge Speed: 12.172239707875413
+Particle Best for fitness:8.121183242078828
+ Retrying in 1 seconds
+10/90
+Total Merge: 3477
+Total Collisions: 0
+Loop Speed: 20.76348403159231
+Merge Speed: 13.73411365245813
+Particle Best for fitness:8.121183242078828
+ Retrying in 1 seconds
+10/90
+Total Merge: 2491
+Total Collisions: 0
+Loop Speed: 9.418933780480819
+Merge Speed: 9.435451324082315
+Particle Best for fitness:8.153925132007862
+ Retrying in 1 seconds
+10/90
+Total Merge: 3135
+Total Collisions: 0
+Loop Speed: 12.189423920078474
+Merge Speed: 12.16063546650862
+Particle Best for fitness:8.153925132007862
+ Retrying in 1 seconds
+10/90
+Total Merge: 2423
+Total Collisions: 0
+Loop Speed: 9.131753212059238
+Merge Speed: 9.152292862666103
+Particle Best for fitness:8.153925132007862
+ Retrying in 1 seconds
+10/90
+Total Merge: 1295
+Total Collisions: 0
+Loop Speed: 4.6919187147732755
+Merge Speed: 4.694567672977632
+Particle Best for fitness:8.153925132007862
+ Retrying in 1 seconds
+10/90
+Total Merge: 3224
+Total Collisions: 0
+Loop Speed: 12.590882659047073
+Merge Speed: 12.397704303118147
+Particle Best for fitness:8.153925132007862
+ Retrying in 1 seconds
+10/90
+Total Merge: 3401
+Total Collisions: 0
+Loop Speed: 19.131170262952796
+Merge Speed: 13.966220335823671
+Particle Best for fitness:8.153925132007862
+ Retrying in 1 seconds
+10/90
+Total Merge: 2152
+Total Collisions: 0
+Loop Speed: 8.025415178866561
+Merge Speed: 8.049401716838258
+Particle Best for fitness:8.153925132007862
+ Retrying in 1 seconds
+10/90
+Total Merge: 3601
+Total Collisions: 0
+Loop Speed: 15.271162639351543
+Merge Speed: 13.728595284229371
+Particle Best for fitness:8.153925132007862
+solution for speed=20.76, min gap=1.92, max merges: 3477, min collisions: 0
+Iteration 3
+ Retrying in 1 seconds
+10/90
+Total Merge: 3328
+Total Collisions: 0
+Loop Speed: 13.217640969579163
+Merge Speed: 12.895928626918364
+Particle Best for fitness:8.188966863648876
+ Retrying in 1 seconds
+10/90
+Total Merge: 3622
+Total Collisions: 0
+Loop Speed: 19.76291047033405
+Merge Speed: 13.870768159423042
+Particle Best for fitness:8.188966863648876
+ Retrying in 1 seconds
+10/90
+Total Merge: 2727
+Total Collisions: 0
+Loop Speed: 10.414092350723603
+Merge Speed: 10.449728561078395
+Particle Best for fitness:8.19478163844336
+ Retrying in 1 seconds
+10/90
+Total Merge: 3361
+Total Collisions: 0
+Loop Speed: 13.191982506348674
+Merge Speed: 12.83499443058049
+Particle Best for fitness:8.19478163844336
+ Retrying in 1 seconds
+10/90
+Total Merge: 2669
+Total Collisions: 0
+Loop Speed: 10.126433575786423
+Merge Speed: 10.166202105098773
+Particle Best for fitness:8.19478163844336
+ Retrying in 1 seconds
+10/90
+Total Merge: 1567
+Total Collisions: 0
+Loop Speed: 5.682321631559602
+Merge Speed: 5.688123283179596
+Particle Best for fitness:8.19478163844336
+ Retrying in 1 seconds
+10/90
+Total Merge: 3410
+Total Collisions: 0
+Loop Speed: 13.589673869974805
+Merge Speed: 12.96200828031823
+Particle Best for fitness:8.19478163844336
+ Retrying in 1 seconds
+10/90
+Total Merge: 3554
+Total Collisions: 0
+Loop Speed: 20.12984285768631
+Merge Speed: 13.660775093930903
+Particle Best for fitness:8.19478163844336
+ Retrying in 1 seconds
+10/90
+Total Merge: 2398
+Total Collisions: 0
+Loop Speed: 9.035133564628971
+Merge Speed: 9.0482088160737
+Particle Best for fitness:8.19478163844336
+ Retrying in 1 seconds
+10/90
+Total Merge: 3809
+Total Collisions: 0
+Loop Speed: 16.268690241212884
+Merge Speed: 13.892481666671923
+Particle Best for fitness:8.19478163844336
+solution for speed=19.76, min gap=1.50, max merges: 3622, min collisions: 0
+Iteration 4
+ Retrying in 1 seconds
+10/90
+Total Merge: 3559
+Total Collisions: 0
+Loop Speed: 14.213550502994691
+Merge Speed: 13.519340479529765
+Particle Best for fitness:8.245121966478605
+ Retrying in 1 seconds
+10/90
+Total Merge: 3816
+Total Collisions: 0
+Loop Speed: 18.7638574996436
+Merge Speed: 13.686804948994766
+Particle Best for fitness:8.245121966478605
+ Retrying in 1 seconds
+10/90
+Total Merge: 2971
+Total Collisions: 0
+Loop Speed: 11.415880726866387
+Merge Speed: 11.423025180840156
+Particle Best for fitness:8.246958032568177
+ Retrying in 1 seconds
+10/90
+Total Merge: 3568
+Total Collisions: 0
+Loop Speed: 14.190326663623898
+Merge Speed: 13.450065758967172
+Particle Best for fitness:8.246958032568177
+10/90
+Total Merge: 2911
+Total Collisions: 0
+Loop Speed: 11.13476783056987
+Merge Speed: 11.147485496077273
+Particle Best for fitness:8.246958032568177
+ Retrying in 1 seconds
+10/90
+Total Merge: 1819
+Total Collisions: 0
+Loop Speed: 6.6923426702211035
+Merge Speed: 6.697951570314847
+Particle Best for fitness:8.246958032568177
+ Retrying in 1 seconds
+10/90
+Total Merge: 3631
+Total Collisions: 0
+Loop Speed: 14.58462523640804
+Merge Speed: 13.478450492533582
+Particle Best for fitness:8.246958032568177
+ Retrying in 1 seconds
+10/90
+Total Merge: 3739
+Total Collisions: 0
+Loop Speed: 20.32592583341596
+Merge Speed: 13.434798388753274
+Particle Best for fitness:8.246958032568177
+ Retrying in 1 seconds
+10/90
+Total Merge: 2635
+Total Collisions: 0
+Loop Speed: 10.031432504761652
+Merge Speed: 10.052990585996115
+Particle Best for fitness:8.246958032568177
+ Retrying in 1 seconds
+10/90
+Total Merge: 3890
+Total Collisions: 0
+Loop Speed: 17.26832013244168
+Merge Speed: 13.703121465518947
+Particle Best for fitness:8.246958032568177
+solution for speed=18.76, min gap=0.89, max merges: 3816, min collisions: 0
+Iteration 5
+ Retrying in 1 seconds
+10/90
+Total Merge: 3768
+Total Collisions: 0
+Loop Speed: 15.207893171761762
+Merge Speed: 13.681030329482246
+Particle Best for fitness:8.266164436612492
+ Retrying in 1 seconds
+10/90
+Total Merge: 4094
+Total Collisions: 0
+Loop Speed: 17.764215156229962
+Merge Speed: 13.727558710402178
+Particle Best for fitness:8.266164436612492
+ Retrying in 1 seconds
+10/90
+Total Merge: 3190
+Total Collisions: 0
+Loop Speed: 12.40899765063
+Merge Speed: 12.29791769849923
+Particle Best for fitness:8.317277766221235
+ Retrying in 1 seconds
+10/90
+Total Merge: 3750
+Total Collisions: 0
+Loop Speed: 15.189527912420987
+Merge Speed: 13.585570148309255
+Particle Best for fitness:8.317277766221235
+ Retrying in 1 seconds
+10/90
+Total Merge: 3123
+Total Collisions: 0
+Loop Speed: 12.125303273584192
+Merge Speed: 12.038341441398604
+Particle Best for fitness:8.317277766221235
+ Retrying in 1 seconds
+10/90
+Total Merge: 2073
+Total Collisions: 0
+Loop Speed: 7.68706092880342
+Merge Speed: 7.69996565412355
+Particle Best for fitness:8.317277766221235
+ Retrying in 1 seconds
+10/90
+Total Merge: 3797
+Total Collisions: 0
+Loop Speed: 15.581721689193332
+Merge Speed: 13.406745397023721
+Particle Best for fitness:8.317277766221235
+ Retrying in 1 seconds
+10/90
+Total Merge: 4116
+Total Collisions: 0
+Loop Speed: 19.357228083955007
+Merge Speed: 13.533800991187556
+Particle Best for fitness:8.317277766221235
+ Retrying in 1 seconds
+10/90
+Total Merge: 2872
+Total Collisions: 0
+Loop Speed: 11.025120284396504
+Merge Speed: 11.04040379676779
+Particle Best for fitness:8.32263709695394
+ Retrying in 1 seconds
+10/90
+Total Merge: 4132
+Total Collisions: 0
+Loop Speed: 18.265564982078793
+Merge Speed: 13.718462489656666
+Particle Best for fitness:8.32263709695394
+solution for speed=19.33, min gap=-0.01, max merges: 4116, min collisions: 0
+Iteration 6
+ Retrying in 1 seconds
+10/90
+Total Merge: 3967
+Total Collisions: 0
+Loop Speed: 16.206442513139326
+Merge Speed: 13.816555908075046
+Particle Best for fitness:8.326516830239528
+ Retrying in 1 seconds
+10/90
+Total Merge: 4132
+Total Collisions: 0
+Loop Speed: 17.994214834432047
+Merge Speed: 13.58283691219371
+Particle Best for fitness:8.326516830239528
+ Retrying in 1 seconds
+10/90
+Total Merge: 3392
+Total Collisions: 0
+Loop Speed: 13.406209701611225
+Merge Speed: 13.070890151793877
+Particle Best for fitness:8.326516830239528
+ Retrying in 1 seconds
+10/90
+Total Merge: 3903
+Total Collisions: 0
+Loop Speed: 16.18733695989627
+Merge Speed: 13.674604632995067
+Particle Best for fitness:8.326516830239528
+ Retrying in 1 seconds
+10/90
+Total Merge: 3357
+Total Collisions: 0
+Loop Speed: 13.124054460131312
+Merge Speed: 12.90456038780721
+Particle Best for fitness:8.326516830239528
+ Retrying in 1 seconds
+10/90
+Total Merge: 2330
+Total Collisions: 0
+Loop Speed: 8.688330176709265
+Merge Speed: 8.710666885279222
+Particle Best for fitness:8.326516830239528
+ Retrying in 1 seconds
+10/90
+Total Merge: 4020
+Total Collisions: 0
+Loop Speed: 16.578097328021755
+Merge Speed: 13.75651360691601
+Particle Best for fitness:8.326516830239528
+ Retrying in 1 seconds
+10/90
+Total Merge: 4120
+Total Collisions: 0
+Loop Speed: 18.32494953894904
+Merge Speed: 13.521129320246704
+Particle Best for fitness:8.326516830239528
+ Retrying in 1 seconds
+10/90
+Total Merge: 3084
+Total Collisions: 0
+Loop Speed: 12.027467673028939
+Merge Speed: 11.924723093760136
+Particle Best for fitness:8.326516830239528
+ Retrying in 1 seconds
+10/90
+Total Merge: 4162
+Total Collisions: 0
+Loop Speed: 18.7650348492475
+Merge Speed: 13.736579883721419
+Particle Best for fitness:8.326516830239528
+solution for speed=18.27, min gap=-0.31, max merges: 4132, min collisions: 0
+Iteration 7
+ Retrying in 1 seconds
+10/90
+Total Merge: 4098
+Total Collisions: 0
+Loop Speed: 17.203681659773824
+Merge Speed: 13.665660913958176
+Particle Best for fitness:8.33375100695358
+ Retrying in 1 seconds
+10/90
+Total Merge: 4130
+Total Collisions: 0
+Loop Speed: 18.990118678604297
+Merge Speed: 13.615354762381434
+Particle Best for fitness:8.33375100695358
+ Retrying in 1 seconds
+10/90
+Total Merge: 3609
+Total Collisions: 0
+Loop Speed: 14.402428343674728
+Merge Speed: 13.423817947187224
+Particle Best for fitness:8.33375100695358
+ Retrying in 1 seconds
+10/90
+Total Merge: 4098
+Total Collisions: 0
+Loop Speed: 17.186678581870733
+Merge Speed: 13.656172523264955
+Particle Best for fitness:8.33375100695358
+ Retrying in 1 seconds
+10/90
+Total Merge: 3564
+Total Collisions: 0
+Loop Speed: 14.12290176801946
+Merge Speed: 13.453150566893813
+Particle Best for fitness:8.33375100695358
+ Retrying in 1 seconds
+10/90
+Total Merge: 2562
+Total Collisions: 0
+Loop Speed: 9.68794366107389
+Merge Speed: 9.717644912131794
+Particle Best for fitness:8.33375100695358
+ Retrying in 1 seconds
+10/90
+Total Merge: 4092
+Total Collisions: 0
+Loop Speed: 17.575938546996642
+Merge Speed: 13.428770474056813
+Particle Best for fitness:8.33375100695358
+ Retrying in 1 seconds
+10/90
+Total Merge: 4149
+Total Collisions: 0
+Loop Speed: 18.28363224261249
+Merge Speed: 13.765159594436392
+Particle Best for fitness:8.33375100695358
+ Retrying in 1 seconds
+10/90
+Total Merge: 3288
+Total Collisions: 0
+Loop Speed: 13.02135743054935
+Merge Speed: 12.775527301460942
+Particle Best for fitness:8.33375100695358
+ Retrying in 1 seconds
+10/90
+Total Merge: 4141
+Total Collisions: 0
+Loop Speed: 19.013951552146466
+Merge Speed: 13.664742346921294
+Particle Best for fitness:8.33375100695358
+solution for speed=18.77, min gap=-0.81, max merges: 4162, min collisions: 0
+Iteration 8
+ Retrying in 1 seconds
+10/90
+Total Merge: 4113
+Total Collisions: 0
+Loop Speed: 18.202404668449528
+Merge Speed: 13.50840349098803
+Particle Best for fitness:8.33375100695358
+ Retrying in 1 seconds
+10/90
+Total Merge: 4093
+Total Collisions: 0
+Loop Speed: 19.325280002034056
+Merge Speed: 13.521635138019812
+Particle Best for fitness:8.33375100695358
+ Retrying in 1 seconds
+10/90
+Total Merge: 3782
+Total Collisions: 0
+Loop Speed: 15.400218378216152
+Merge Speed: 13.340772539782204
+Particle Best for fitness:8.33375100695358
+ Retrying in 1 seconds
+10/90
+Total Merge: 4121
+Total Collisions: 0
+Loop Speed: 18.185122447477294
+Merge Speed: 13.705680425471853
+Particle Best for fitness:8.33375100695358
+ Retrying in 1 seconds
+10/90
+Total Merge: 3769
+Total Collisions: 0
+Loop Speed: 15.11991697641693
+Merge Speed: 13.869560819363596
+Particle Best for fitness:8.33375100695358
+ Retrying in 1 seconds
+10/90
+Total Merge: 2792
+Total Collisions: 0
+Loop Speed: 10.689479217136196
+Merge Speed: 10.704398040117736
+Particle Best for fitness:8.33375100695358
+ Retrying in 1 seconds
+10/90
+Total Merge: 4137
+Total Collisions: 0
+Loop Speed: 18.575942994039124
+Merge Speed: 13.78771362485815
+Particle Best for fitness:8.33375100695358
+ Retrying in 1 seconds
+10/90
+Total Merge: 4162
+Total Collisions: 0
+Loop Speed: 18.51741467647451
+Merge Speed: 13.916578481096577
+Particle Best for fitness:8.33375100695358
+ Retrying in 1 seconds
+10/90
+Total Merge: 3445
+Total Collisions: 0
+Loop Speed: 14.022032679057261
+Merge Speed: 13.049415562270383
+Particle Best for fitness:8.33375100695358
+ Retrying in 1 seconds
+10/90
+Total Merge: 4181
+Total Collisions: 0
+Loop Speed: 18.286707927214657
+Merge Speed: 13.983326354581727
+Particle Best for fitness:8.33375100695358
+solution for speed=18.77, min gap=-0.81, max merges: 4162, min collisions: 0
+Iteration 9
+ Retrying in 1 seconds
+10/90
+Total Merge: 4159
+Total Collisions: 0
+Loop Speed: 18.786363925917335
+Merge Speed: 13.837931566546922
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4112
+Total Collisions: 0
+Loop Speed: 18.325651033132253
+Merge Speed: 13.552174944090295
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 3960
+Total Collisions: 0
+Loop Speed: 16.4007358359549
+Merge Speed: 13.564519748371774
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4129
+Total Collisions: 0
+Loop Speed: 18.73092181599188
+Merge Speed: 13.624575968404471
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 3902
+Total Collisions: 0
+Loop Speed: 16.118736366127866
+Merge Speed: 13.462285349753403
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 3018
+Total Collisions: 0
+Loop Speed: 11.683629311299429
+Merge Speed: 11.683881628582208
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4160
+Total Collisions: 0
+Loop Speed: 18.54942858295173
+Merge Speed: 13.908532670633656
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4129
+Total Collisions: 0
+Loop Speed: 18.18106056109775
+Merge Speed: 13.663449199153128
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 3725
+Total Collisions: 0
+Loop Speed: 15.020883302870615
+Merge Speed: 13.596473457533419
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4142
+Total Collisions: 0
+Loop Speed: 17.92309257207459
+Merge Speed: 13.74762734741073
+Particle Best for fitness:8.338305731356565
+solution for speed=18.29, min gap=-0.63, max merges: 4181, min collisions: 0
+Iteration 10
+ Retrying in 1 seconds
+10/90
+Total Merge: 4112
+Total Collisions: 0
+Loop Speed: 18.179061427112153
+Merge Speed: 13.540827601927674
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4125
+Total Collisions: 0
+Loop Speed: 17.54910644109047
+Merge Speed: 13.603616565262795
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4117
+Total Collisions: 0
+Loop Speed: 17.399150340863137
+Merge Speed: 13.633784502333397
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4134
+Total Collisions: 0
+Loop Speed: 18.467629661659533
+Merge Speed: 13.695802762990786
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4085
+Total Collisions: 0
+Loop Speed: 17.117998079267068
+Merge Speed: 13.596201111122515
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 3256
+Total Collisions: 0
+Loop Speed: 12.681841100364208
+Merge Speed: 12.535480443623328
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4095
+Total Collisions: 0
+Loop Speed: 18.29922906504601
+Merge Speed: 13.377751342744356
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4111
+Total Collisions: 0
+Loop Speed: 18.470876326856168
+Merge Speed: 13.589009141583976
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 3903
+Total Collisions: 0
+Loop Speed: 16.020778566627705
+Merge Speed: 13.535843851658536
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4173
+Total Collisions: 0
+Loop Speed: 18.06645333766013
+Merge Speed: 13.969678613183435
+Particle Best for fitness:8.338305731356565
+solution for speed=18.29, min gap=-0.63, max merges: 4181, min collisions: 0
+Iteration 11
+ Retrying in 1 seconds
+10/90
+Total Merge: 4102
+Total Collisions: 0
+Loop Speed: 18.437302634465976
+Merge Speed: 13.393816360074204
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4115
+Total Collisions: 0
+Loop Speed: 18.036427072575385
+Merge Speed: 13.574238520134047
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4095
+Total Collisions: 0
+Loop Speed: 18.397050345325752
+Merge Speed: 13.495467040687606
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4102
+Total Collisions: 0
+Loop Speed: 18.127387395849006
+Merge Speed: 13.486167430126656
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4134
+Total Collisions: 0
+Loop Speed: 18.11582137722011
+Merge Speed: 13.734456000253264
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 3481
+Total Collisions: 0
+Loop Speed: 13.680807249103614
+Merge Speed: 13.254878344940456
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4137
+Total Collisions: 0
+Loop Speed: 18.213955299210838
+Merge Speed: 13.663868083145427
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4131
+Total Collisions: 0
+Loop Speed: 18.594991893696232
+Merge Speed: 13.691584360409225
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4052
+Total Collisions: 0
+Loop Speed: 17.047453068014356
+Merge Speed: 13.431021995420165
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4140
+Total Collisions: 0
+Loop Speed: 18.813371755033295
+Merge Speed: 13.769703104349304
+Particle Best for fitness:8.338305731356565
+solution for speed=18.29, min gap=-0.63, max merges: 4181, min collisions: 0
+Iteration 12
+ Retrying in 1 seconds
+10/90
+Total Merge: 4071
+Total Collisions: 0
+Loop Speed: 18.667593715167026
+Merge Speed: 13.2981503914122
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4095
+Total Collisions: 0
+Loop Speed: 18.60125615851303
+Merge Speed: 13.521677947246665
+Particle Best for fitness:8.338305731356565
+10/90
+Total Merge: 4097
+Total Collisions: 0
+Loop Speed: 17.39805424248952
+Merge Speed: 13.494792090682575
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4105
+Total Collisions: 0
+Loop Speed: 18.54202082692525
+Merge Speed: 13.575798619929463
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4141
+Total Collisions: 0
+Loop Speed: 18.73602318496053
+Merge Speed: 13.767332531331842
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 3644
+Total Collisions: 0
+Loop Speed: 14.677816980095207
+Merge Speed: 13.580995114223246
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4088
+Total Collisions: 0
+Loop Speed: 18.375531478165346
+Merge Speed: 13.406166434060733
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4150
+Total Collisions: 0
+Loop Speed: 18.285816819253487
+Merge Speed: 13.743302172790818
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4088
+Total Collisions: 0
+Loop Speed: 18.016075868224796
+Merge Speed: 13.446076868163214
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4131
+Total Collisions: 0
+Loop Speed: 18.343352200114243
+Merge Speed: 13.661076206168278
+Particle Best for fitness:8.338305731356565
+solution for speed=18.29, min gap=-0.63, max merges: 4181, min collisions: 0
+Iteration 13
+ Retrying in 1 seconds
+10/90
+Total Merge: 4078
+Total Collisions: 0
+Loop Speed: 18.8739993716257
+Merge Speed: 13.252164045731785
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4130
+Total Collisions: 0
+Loop Speed: 18.016166131000233
+Merge Speed: 13.716431874617458
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4115
+Total Collisions: 0
+Loop Speed: 17.433862332442835
+Merge Speed: 13.424358325707319
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4119
+Total Collisions: 0
+Loop Speed: 18.281498361421118
+Merge Speed: 13.56360926123133
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4125
+Total Collisions: 0
+Loop Speed: 18.75458128306014
+Merge Speed: 13.684332520241137
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 3852
+Total Collisions: 0
+Loop Speed: 15.674741928115873
+Merge Speed: 14.027655955794646
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4123
+Total Collisions: 0
+Loop Speed: 18.618314375212297
+Merge Speed: 13.660283263246976
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4125
+Total Collisions: 0
+Loop Speed: 18.258303353513146
+Merge Speed: 13.693699286234954
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4188
+Total Collisions: 0
+Loop Speed: 18.737221908585433
+Merge Speed: 14.037257868838418
+Particle Best for fitness:8.338305731356565
+ Retrying in 1 seconds
+10/90
+Total Merge: 4114
+Total Collisions: 0
+Loop Speed: 18.19651078086199
+Merge Speed: 13.594177634879204
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 14
+ Retrying in 1 seconds
+10/90
+Total Merge: 4114
+Total Collisions: 0
+Loop Speed: 18.685133621622036
+Merge Speed: 13.84848127563421
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4162
+Total Collisions: 0
+Loop Speed: 17.966233254862043
+Merge Speed: 13.782126126411603
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4123
+Total Collisions: 0
+Loop Speed: 18.432736482737223
+Merge Speed: 13.669044723650607
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4144
+Total Collisions: 0
+Loop Speed: 18.988216579116838
+Merge Speed: 13.780037223515277
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4129
+Total Collisions: 0
+Loop Speed: 18.736095621414794
+Merge Speed: 13.618938896180579
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4032
+Total Collisions: 0
+Loop Speed: 16.673542876117374
+Merge Speed: 13.766862795934314
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4144
+Total Collisions: 0
+Loop Speed: 18.93764347166952
+Merge Speed: 13.730132216375765
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4103
+Total Collisions: 0
+Loop Speed: 18.832522980828042
+Merge Speed: 13.511623132694488
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4122
+Total Collisions: 0
+Loop Speed: 19.096175553389013
+Merge Speed: 13.643494257940352
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4148
+Total Collisions: 0
+Loop Speed: 18.217220971387086
+Merge Speed: 13.77504288477679
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 15
+ Retrying in 1 seconds
+10/90
+Total Merge: 4143
+Total Collisions: 0
+Loop Speed: 18.723383880595716
+Merge Speed: 13.800385556051681
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4108
+Total Collisions: 0
+Loop Speed: 17.943769909205457
+Merge Speed: 13.485083722486914
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4137
+Total Collisions: 0
+Loop Speed: 19.43003073029318
+Merge Speed: 13.75770733421003
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4153
+Total Collisions: 0
+Loop Speed: 19.1466367848725
+Merge Speed: 13.878995990834499
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4149
+Total Collisions: 0
+Loop Speed: 18.724688164267317
+Merge Speed: 13.820509857706966
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4147
+Total Collisions: 0
+Loop Speed: 17.671648627699003
+Merge Speed: 13.80881857285691
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4104
+Total Collisions: 0
+Loop Speed: 18.73722807650785
+Merge Speed: 13.414075105528962
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4133
+Total Collisions: 0
+Loop Speed: 18.710585765450308
+Merge Speed: 13.72625691239359
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4138
+Total Collisions: 0
+Loop Speed: 18.511911455708773
+Merge Speed: 13.737607032675642
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4141
+Total Collisions: 0
+Loop Speed: 18.505601119217438
+Merge Speed: 13.69245873607576
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 16
+ Retrying in 1 seconds
+10/90
+Total Merge: 4127
+Total Collisions: 0
+Loop Speed: 18.836554215508283
+Merge Speed: 13.617441865202032
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4124
+Total Collisions: 0
+Loop Speed: 18.730182165650376
+Merge Speed: 13.624652895970204
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4115
+Total Collisions: 0
+Loop Speed: 19.820220217342875
+Merge Speed: 13.577690697478136
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4127
+Total Collisions: 0
+Loop Speed: 18.814515684928633
+Merge Speed: 13.680333567824073
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4128
+Total Collisions: 0
+Loop Speed: 18.726956321291592
+Merge Speed: 13.557377448640635
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4163
+Total Collisions: 0
+Loop Speed: 18.67227512882103
+Merge Speed: 13.943041219901467
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4145
+Total Collisions: 0
+Loop Speed: 18.28259481076444
+Merge Speed: 13.695364842095113
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4120
+Total Collisions: 0
+Loop Speed: 18.62783224593578
+Merge Speed: 13.592145505137392
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4128
+Total Collisions: 0
+Loop Speed: 18.79358734034876
+Merge Speed: 13.601828887358453
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4102
+Total Collisions: 0
+Loop Speed: 18.62523243685715
+Merge Speed: 13.466696148093927
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 17
+ Retrying in 1 seconds
+10/90
+Total Merge: 4013
+Total Collisions: 0
+Loop Speed: 18.720174984836596
+Merge Speed: 13.645727898292462
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4145
+Total Collisions: 0
+Loop Speed: 18.791272258390013
+Merge Speed: 13.731609757926929
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4077
+Total Collisions: 0
+Loop Speed: 18.81141943583474
+Merge Speed: 13.290167612436557
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4140
+Total Collisions: 0
+Loop Speed: 18.93390779696321
+Merge Speed: 13.7246883612041
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4090
+Total Collisions: 0
+Loop Speed: 18.73800686315525
+Merge Speed: 13.38380672486577
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4121
+Total Collisions: 0
+Loop Speed: 19.190826567361032
+Merge Speed: 13.55998183449967
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4107
+Total Collisions: 0
+Loop Speed: 19.10397496021823
+Merge Speed: 13.534672159489421
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4140
+Total Collisions: 0
+Loop Speed: 18.562589442246193
+Merge Speed: 13.676925786817351
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4116
+Total Collisions: 0
+Loop Speed: 18.88295790414014
+Merge Speed: 13.540156595874405
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4147
+Total Collisions: 0
+Loop Speed: 18.17987838229436
+Merge Speed: 13.7751819196663
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 18
+ Retrying in 1 seconds
+10/90
+Total Merge: 4118
+Total Collisions: 0
+Loop Speed: 18.69772117417446
+Merge Speed: 13.601478955943339
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4132
+Total Collisions: 0
+Loop Speed: 17.79392422681811
+Merge Speed: 13.601148356779893
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4157
+Total Collisions: 0
+Loop Speed: 19.337032451168835
+Merge Speed: 13.88884815142854
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4123
+Total Collisions: 0
+Loop Speed: 18.972645678255496
+Merge Speed: 13.633992558860307
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4148
+Total Collisions: 0
+Loop Speed: 18.737019718485058
+Merge Speed: 13.83072745617164
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4130
+Total Collisions: 0
+Loop Speed: 18.194014699953797
+Merge Speed: 13.702196067883339
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4086
+Total Collisions: 0
+Loop Speed: 18.10583195988009
+Merge Speed: 13.40122756522394
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4105
+Total Collisions: 0
+Loop Speed: 18.764750076412856
+Merge Speed: 13.318484970404565
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4133
+Total Collisions: 0
+Loop Speed: 18.76898364884308
+Merge Speed: 13.808559072566203
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4134
+Total Collisions: 0
+Loop Speed: 19.006338018047433
+Merge Speed: 13.741642776687312
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 19
+ Retrying in 1 seconds
+10/90
+Total Merge: 4152
+Total Collisions: 0
+Loop Speed: 18.793456840706277
+Merge Speed: 13.86053129811024
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4145
+Total Collisions: 0
+Loop Speed: 17.727810361788013
+Merge Speed: 13.809357441037427
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4156
+Total Collisions: 0
+Loop Speed: 19.311085644027187
+Merge Speed: 13.866366128029119
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4137
+Total Collisions: 0
+Loop Speed: 18.66085066055679
+Merge Speed: 13.781838656592075
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4128
+Total Collisions: 0
+Loop Speed: 18.727944922992883
+Merge Speed: 13.510376517865703
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4181
+Total Collisions: 0
+Loop Speed: 18.866865794926742
+Merge Speed: 14.004927249824659
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4137
+Total Collisions: 0
+Loop Speed: 19.103325478816306
+Merge Speed: 13.699157660406067
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4155
+Total Collisions: 0
+Loop Speed: 18.54270474162343
+Merge Speed: 13.74081254145925
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4145
+Total Collisions: 0
+Loop Speed: 18.671245246238282
+Merge Speed: 13.711419758795829
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4161
+Total Collisions: 0
+Loop Speed: 18.582397412720063
+Merge Speed: 13.791919330892517
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 20
+ Retrying in 1 seconds
+10/90
+Total Merge: 4129
+Total Collisions: 0
+Loop Speed: 18.75700702724417
+Merge Speed: 13.566641975812386
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4076
+Total Collisions: 0
+Loop Speed: 18.755000471892444
+Merge Speed: 13.321499010200085
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4156
+Total Collisions: 0
+Loop Speed: 19.202115368199046
+Merge Speed: 13.839074895410672
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4141
+Total Collisions: 0
+Loop Speed: 18.619305410905312
+Merge Speed: 13.823996181245077
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4095
+Total Collisions: 0
+Loop Speed: 18.720798153914938
+Merge Speed: 13.430949140005508
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4127
+Total Collisions: 0
+Loop Speed: 19.034180094029054
+Merge Speed: 13.648219122148056
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4115
+Total Collisions: 0
+Loop Speed: 19.073274723638075
+Merge Speed: 13.394691733992165
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4095
+Total Collisions: 0
+Loop Speed: 18.75551619674871
+Merge Speed: 13.463846639322275
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4128
+Total Collisions: 0
+Loop Speed: 18.8173380869911
+Merge Speed: 13.620758736304692
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4130
+Total Collisions: 0
+Loop Speed: 18.129246231841023
+Merge Speed: 13.683070720925432
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 21
+ Retrying in 1 seconds
+10/90
+Total Merge: 4097
+Total Collisions: 0
+Loop Speed: 18.73323251806236
+Merge Speed: 13.451112846357123
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4104
+Total Collisions: 0
+Loop Speed: 18.23537477936791
+Merge Speed: 13.546961067557165
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4115
+Total Collisions: 0
+Loop Speed: 18.87487438082056
+Merge Speed: 13.561628633881904
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4131
+Total Collisions: 0
+Loop Speed: 19.117418610897076
+Merge Speed: 13.651167095360924
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4098
+Total Collisions: 0
+Loop Speed: 18.74014704780128
+Merge Speed: 13.459953761012526
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4172
+Total Collisions: 0
+Loop Speed: 18.30297495809549
+Merge Speed: 13.911543506654363
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4146
+Total Collisions: 0
+Loop Speed: 18.852042646096443
+Merge Speed: 13.76600428899521
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4084
+Total Collisions: 0
+Loop Speed: 18.55032777247899
+Merge Speed: 13.344283392099975
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4094
+Total Collisions: 0
+Loop Speed: 18.76063519309691
+Merge Speed: 13.47363098526149
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4089
+Total Collisions: 0
+Loop Speed: 18.699952063508842
+Merge Speed: 13.369172191918985
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 22
+ Retrying in 1 seconds
+10/90
+Total Merge: 4122
+Total Collisions: 0
+Loop Speed: 18.760972889114207
+Merge Speed: 13.672572254341443
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4114
+Total Collisions: 0
+Loop Speed: 18.18850810255777
+Merge Speed: 13.549021776168507
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4124
+Total Collisions: 0
+Loop Speed: 18.90883203694806
+Merge Speed: 13.593910796581019
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4163
+Total Collisions: 0
+Loop Speed: 19.199872718659723
+Merge Speed: 13.914136815533762
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4127
+Total Collisions: 0
+Loop Speed: 18.724789760343885
+Merge Speed: 13.635535020880438
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4177
+Total Collisions: 0
+Loop Speed: 18.92730982391262
+Merge Speed: 13.96427706357357
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4104
+Total Collisions: 0
+Loop Speed: 18.013126313070345
+Merge Speed: 13.5822464008155
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4130
+Total Collisions: 0
+Loop Speed: 18.569792705768766
+Merge Speed: 13.648855759772426
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4111
+Total Collisions: 0
+Loop Speed: 18.666787749682396
+Merge Speed: 13.49631005510119
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4143
+Total Collisions: 0
+Loop Speed: 18.771560112476955
+Merge Speed: 13.673864071053263
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 23
+ Retrying in 1 seconds
+10/90
+Total Merge: 4095
+Total Collisions: 0
+Loop Speed: 18.787400499213337
+Merge Speed: 13.35544088966423
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4103
+Total Collisions: 0
+Loop Speed: 18.882629381942728
+Merge Speed: 13.358123917257036
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4155
+Total Collisions: 0
+Loop Speed: 19.035314715924393
+Merge Speed: 13.862406217667086
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4094
+Total Collisions: 0
+Loop Speed: 18.887267920653983
+Merge Speed: 13.434332443841027
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4111
+Total Collisions: 0
+Loop Speed: 18.739000771292492
+Merge Speed: 13.593553531513557
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4103
+Total Collisions: 0
+Loop Speed: 19.01047294871187
+Merge Speed: 13.509899926103715
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4135
+Total Collisions: 0
+Loop Speed: 18.30355474740938
+Merge Speed: 13.727928676923343
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4150
+Total Collisions: 0
+Loop Speed: 18.550851938879436
+Merge Speed: 13.777708586482838
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4132
+Total Collisions: 0
+Loop Speed: 18.723373972906774
+Merge Speed: 13.692445698400238
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4113
+Total Collisions: 0
+Loop Speed: 18.479047201467516
+Merge Speed: 13.550702344831624
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 24
+ Retrying in 1 seconds
+10/90
+Total Merge: 4144
+Total Collisions: 0
+Loop Speed: 18.738927433667765
+Merge Speed: 13.781037450169055
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4114
+Total Collisions: 0
+Loop Speed: 17.923992294539453
+Merge Speed: 13.496437877794257
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4109
+Total Collisions: 0
+Loop Speed: 19.355885024942392
+Merge Speed: 13.514350746230686
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4092
+Total Collisions: 0
+Loop Speed: 19.099895028015418
+Merge Speed: 13.333646220425422
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4094
+Total Collisions: 0
+Loop Speed: 18.716502339032655
+Merge Speed: 13.457244096103318
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4146
+Total Collisions: 0
+Loop Speed: 18.755291036791736
+Merge Speed: 13.85292985816273
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4152
+Total Collisions: 0
+Loop Speed: 19.194232130001712
+Merge Speed: 13.877607834763985
+Particle Best for fitness:8.339978571990427
+10/90
+Total Merge: 4132
+Total Collisions: 0
+Loop Speed: 18.54902274096917
+Merge Speed: 13.693415407257842
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4114
+Total Collisions: 0
+Loop Speed: 18.76743695622812
+Merge Speed: 13.416217078346568
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4161
+Total Collisions: 0
+Loop Speed: 18.635049422610965
+Merge Speed: 13.852018014898936
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 25
+ Retrying in 1 seconds
+10/90
+Total Merge: 4083
+Total Collisions: 0
+Loop Speed: 18.804302547480628
+Merge Speed: 13.36295548959661
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4081
+Total Collisions: 0
+Loop Speed: 17.820823097389262
+Merge Speed: 13.313456808042476
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4109
+Total Collisions: 0
+Loop Speed: 19.08055460586793
+Merge Speed: 13.40590705598202
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4157
+Total Collisions: 0
+Loop Speed: 19.38073456973335
+Merge Speed: 13.845783615799874
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4110
+Total Collisions: 0
+Loop Speed: 18.739802578437104
+Merge Speed: 13.531688189466918
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4127
+Total Collisions: 0
+Loop Speed: 18.737109261321486
+Merge Speed: 13.730026491843725
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4146
+Total Collisions: 0
+Loop Speed: 18.67580708107021
+Merge Speed: 13.819377595223136
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4164
+Total Collisions: 0
+Loop Speed: 18.551556884047788
+Merge Speed: 13.846781530177463
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4142
+Total Collisions: 0
+Loop Speed: 18.732648280451365
+Merge Speed: 13.750912628185283
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4095
+Total Collisions: 0
+Loop Speed: 18.34820732160412
+Merge Speed: 13.413446471451936
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 26
+ Retrying in 1 seconds
+10/90
+Total Merge: 4112
+Total Collisions: 0
+Loop Speed: 18.770190320196665
+Merge Speed: 13.536488520833402
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4121
+Total Collisions: 0
+Loop Speed: 18.818072157694857
+Merge Speed: 13.551406286337816
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4154
+Total Collisions: 0
+Loop Speed: 19.0911559290436
+Merge Speed: 13.731236543593
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4126
+Total Collisions: 0
+Loop Speed: 19.038959031126485
+Merge Speed: 13.647517961553906
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4146
+Total Collisions: 0
+Loop Speed: 18.739797043656075
+Merge Speed: 13.775123996725256
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4146
+Total Collisions: 0
+Loop Speed: 18.80823879374389
+Merge Speed: 13.697935993988189
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4070
+Total Collisions: 0
+Loop Speed: 18.347035964644462
+Merge Speed: 13.325467234355306
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4128
+Total Collisions: 0
+Loop Speed: 18.570971411360315
+Merge Speed: 13.645833211488286
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4101
+Total Collisions: 0
+Loop Speed: 18.725592975153234
+Merge Speed: 13.495804497875568
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4174
+Total Collisions: 0
+Loop Speed: 18.401627856919742
+Merge Speed: 13.96222259124362
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 27
+ Retrying in 1 seconds
+10/90
+Total Merge: 4133
+Total Collisions: 0
+Loop Speed: 18.742171775996848
+Merge Speed: 13.860862268696206
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4128
+Total Collisions: 0
+Loop Speed: 18.797407417362773
+Merge Speed: 13.560186971575845
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4126
+Total Collisions: 0
+Loop Speed: 18.94584644196653
+Merge Speed: 13.652122766565283
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4133
+Total Collisions: 0
+Loop Speed: 18.8292816107909
+Merge Speed: 13.778981979192386
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4118
+Total Collisions: 0
+Loop Speed: 18.729411865626286
+Merge Speed: 13.575501536351856
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4086
+Total Collisions: 0
+Loop Speed: 18.775921307557663
+Merge Speed: 13.463975703438532
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4047
+Total Collisions: 0
+Loop Speed: 18.378532899044227
+Merge Speed: 13.26358285606697
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4137
+Total Collisions: 0
+Loop Speed: 18.62864355120612
+Merge Speed: 13.715624579459258
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 3957
+Total Collisions: 0
+Loop Speed: 18.569842082724115
+Merge Speed: 13.338495167573557
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4138
+Total Collisions: 0
+Loop Speed: 18.676627287535112
+Merge Speed: 13.718744519384401
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 28
+ Retrying in 1 seconds
+10/90
+Total Merge: 4168
+Total Collisions: 0
+Loop Speed: 18.798511401921147
+Merge Speed: 13.985443133940594
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4164
+Total Collisions: 0
+Loop Speed: 17.798003797583554
+Merge Speed: 13.955357173215988
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4130
+Total Collisions: 0
+Loop Speed: 19.064383577013846
+Merge Speed: 13.66200950965315
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4126
+Total Collisions: 0
+Loop Speed: 19.174374799290923
+Merge Speed: 13.654173984886638
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4112
+Total Collisions: 0
+Loop Speed: 18.733217229556352
+Merge Speed: 13.653034448482922
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4164
+Total Collisions: 0
+Loop Speed: 18.685129557845052
+Merge Speed: 13.80021916788452
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4120
+Total Collisions: 0
+Loop Speed: 18.867971865227076
+Merge Speed: 13.586075397104235
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4160
+Total Collisions: 0
+Loop Speed: 18.668563356457852
+Merge Speed: 13.719116083108661
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4118
+Total Collisions: 0
+Loop Speed: 18.74418294729464
+Merge Speed: 13.583214020494324
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4113
+Total Collisions: 0
+Loop Speed: 18.245496844234108
+Merge Speed: 13.589127937600038
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 29
+ Retrying in 1 seconds
+10/90
+Total Merge: 4135
+Total Collisions: 0
+Loop Speed: 18.778366402580943
+Merge Speed: 13.672699895090682
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4142
+Total Collisions: 0
+Loop Speed: 17.587745652433508
+Merge Speed: 13.705050432101478
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4098
+Total Collisions: 0
+Loop Speed: 18.763593774631616
+Merge Speed: 13.498231336528814
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4150
+Total Collisions: 0
+Loop Speed: 19.182554071187155
+Merge Speed: 13.644552628474258
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4101
+Total Collisions: 0
+Loop Speed: 18.719170889250403
+Merge Speed: 13.477045416510544
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4129
+Total Collisions: 0
+Loop Speed: 18.971625340516013
+Merge Speed: 13.728760248013037
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4101
+Total Collisions: 0
+Loop Speed: 18.405633481512684
+Merge Speed: 13.62083757101465
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4059
+Total Collisions: 0
+Loop Speed: 18.7665760452654
+Merge Speed: 13.268791130586333
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4171
+Total Collisions: 0
+Loop Speed: 18.719414625998095
+Merge Speed: 13.961848786445259
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4059
+Total Collisions: 0
+Loop Speed: 18.14000839271688
+Merge Speed: 13.16231437392341
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 30
+ Retrying in 1 seconds
+10/90
+Total Merge: 4164
+Total Collisions: 0
+Loop Speed: 18.712254402802373
+Merge Speed: 13.897960621154146
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4131
+Total Collisions: 0
+Loop Speed: 18.585377350854166
+Merge Speed: 13.651292440258297
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4091
+Total Collisions: 0
+Loop Speed: 18.58756427963114
+Merge Speed: 13.32193116995967
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4153
+Total Collisions: 0
+Loop Speed: 18.32416647119828
+Merge Speed: 13.836581170206252
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4173
+Total Collisions: 0
+Loop Speed: 18.735091155965492
+Merge Speed: 13.984052266956928
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4097
+Total Collisions: 0
+Loop Speed: 18.63712368511486
+Merge Speed: 13.391921502548566
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4068
+Total Collisions: 0
+Loop Speed: 18.811377476079997
+Merge Speed: 13.338942477193418
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4135
+Total Collisions: 0
+Loop Speed: 18.745548703083998
+Merge Speed: 13.734120625760601
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4145
+Total Collisions: 0
+Loop Speed: 18.71934978375502
+Merge Speed: 13.784765316876115
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4131
+Total Collisions: 0
+Loop Speed: 18.596784953805393
+Merge Speed: 13.62490739394747
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 31
+ Retrying in 1 seconds
+10/90
+Total Merge: 4112
+Total Collisions: 0
+Loop Speed: 18.786619226968046
+Merge Speed: 13.578432098569836
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4101
+Total Collisions: 0
+Loop Speed: 18.786433659507217
+Merge Speed: 13.469299551587945
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4126
+Total Collisions: 0
+Loop Speed: 19.587071730955536
+Merge Speed: 13.693304680005346
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4114
+Total Collisions: 0
+Loop Speed: 18.52894400893855
+Merge Speed: 13.519859111359391
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4141
+Total Collisions: 0
+Loop Speed: 18.744747062202315
+Merge Speed: 13.802570152629956
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4119
+Total Collisions: 0
+Loop Speed: 18.887507886505297
+Merge Speed: 13.567135944109765
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4144
+Total Collisions: 0
+Loop Speed: 18.72083407661384
+Merge Speed: 13.726996898783336
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4113
+Total Collisions: 0
+Loop Speed: 18.59979747000417
+Merge Speed: 13.566494059144452
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4154
+Total Collisions: 0
+Loop Speed: 18.73429489194958
+Merge Speed: 13.764464110180944
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4096
+Total Collisions: 0
+Loop Speed: 18.574614634455045
+Merge Speed: 13.402750195141794
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 32
+ Retrying in 1 seconds
+10/90
+Total Merge: 4126
+Total Collisions: 0
+Loop Speed: 18.76024119576623
+Merge Speed: 13.68114851782238
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4125
+Total Collisions: 0
+Loop Speed: 18.46106037666985
+Merge Speed: 13.67636041000223
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4127
+Total Collisions: 0
+Loop Speed: 18.588613335768525
+Merge Speed: 13.602681415407412
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4094
+Total Collisions: 0
+Loop Speed: 19.02358396699541
+Merge Speed: 13.409575246209268
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4112
+Total Collisions: 0
+Loop Speed: 18.729054139743877
+Merge Speed: 13.575355824348893
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4124
+Total Collisions: 0
+Loop Speed: 18.77212992277985
+Merge Speed: 13.685251525703986
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4119
+Total Collisions: 0
+Loop Speed: 18.61264136933537
+Merge Speed: 13.474971081888311
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4110
+Total Collisions: 0
+Loop Speed: 18.6798005724369
+Merge Speed: 13.520022651525457
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4152
+Total Collisions: 0
+Loop Speed: 18.747009507298614
+Merge Speed: 13.818145708330128
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4133
+Total Collisions: 0
+Loop Speed: 18.401331039182374
+Merge Speed: 13.700150972159431
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 33
+ Retrying in 1 seconds
+10/90
+Total Merge: 4140
+Total Collisions: 0
+Loop Speed: 18.762167404864112
+Merge Speed: 13.599289048906217
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4123
+Total Collisions: 0
+Loop Speed: 18.32425557396956
+Merge Speed: 13.715603074987827
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4129
+Total Collisions: 0
+Loop Speed: 19.58684675927938
+Merge Speed: 13.61255804308854
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4069
+Total Collisions: 0
+Loop Speed: 19.327852628072307
+Merge Speed: 13.229425998878774
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4121
+Total Collisions: 0
+Loop Speed: 18.74510173954312
+Merge Speed: 13.650019827704511
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4145
+Total Collisions: 0
+Loop Speed: 18.688320541960948
+Merge Speed: 13.77540887231801
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4091
+Total Collisions: 0
+Loop Speed: 18.599421404156725
+Merge Speed: 13.507578680130086
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4108
+Total Collisions: 0
+Loop Speed: 18.61876511101276
+Merge Speed: 13.438482605133636
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4148
+Total Collisions: 0
+Loop Speed: 18.725038033419352
+Merge Speed: 13.807685145664719
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4147
+Total Collisions: 0
+Loop Speed: 18.36741165650422
+Merge Speed: 13.769878891801627
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 34
+ Retrying in 1 seconds
+10/90
+Total Merge: 4133
+Total Collisions: 0
+Loop Speed: 18.74353794257542
+Merge Speed: 13.603107954348133
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4140
+Total Collisions: 0
+Loop Speed: 17.950741640080174
+Merge Speed: 13.715225891726119
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4093
+Total Collisions: 0
+Loop Speed: 19.025207222020892
+Merge Speed: 13.478092782557471
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4109
+Total Collisions: 0
+Loop Speed: 19.07821888628721
+Merge Speed: 13.50853031030827
+Particle Best for fitness:8.339978571990427
+10/90
+Total Merge: 4108
+Total Collisions: 0
+Loop Speed: 18.7463325344861
+Merge Speed: 13.553496888703563
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4101
+Total Collisions: 0
+Loop Speed: 18.841453219266754
+Merge Speed: 13.537001058104924
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4180
+Total Collisions: 0
+Loop Speed: 18.78283856835835
+Merge Speed: 14.008648743687079
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4064
+Total Collisions: 0
+Loop Speed: 18.714063481696435
+Merge Speed: 13.21980258334389
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4109
+Total Collisions: 0
+Loop Speed: 18.751749866686232
+Merge Speed: 13.576829313557552
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4142
+Total Collisions: 0
+Loop Speed: 18.642771756847996
+Merge Speed: 13.752526820099419
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 35
+ Retrying in 1 seconds
+10/90
+Total Merge: 4126
+Total Collisions: 0
+Loop Speed: 18.814248981496956
+Merge Speed: 13.664313977962305
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4076
+Total Collisions: 0
+Loop Speed: 18.351956699379688
+Merge Speed: 13.353814488829705
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4175
+Total Collisions: 0
+Loop Speed: 18.795282195491616
+Merge Speed: 14.003718606085076
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4153
+Total Collisions: 0
+Loop Speed: 18.517389315880685
+Merge Speed: 13.803679405404706
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4136
+Total Collisions: 0
+Loop Speed: 18.72261787212035
+Merge Speed: 13.671055431464936
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4119
+Total Collisions: 0
+Loop Speed: 18.724475985605338
+Merge Speed: 13.515671263868922
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4096
+Total Collisions: 0
+Loop Speed: 18.811449682479257
+Merge Speed: 13.459395479489887
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4169
+Total Collisions: 0
+Loop Speed: 18.688292366667536
+Merge Speed: 13.932650942102187
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4103
+Total Collisions: 0
+Loop Speed: 18.735515303024595
+Merge Speed: 13.570248044444712
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4121
+Total Collisions: 0
+Loop Speed: 18.630113464637642
+Merge Speed: 13.644461440772597
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 36
+ Retrying in 1 seconds
+10/90
+Total Merge: 4132
+Total Collisions: 0
+Loop Speed: 18.80776197740593
+Merge Speed: 13.747348262441964
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4110
+Total Collisions: 0
+Loop Speed: 18.354986318143617
+Merge Speed: 13.520246307138114
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4114
+Total Collisions: 0
+Loop Speed: 18.62584553727655
+Merge Speed: 13.582499851456296
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4150
+Total Collisions: 0
+Loop Speed: 19.19554204612924
+Merge Speed: 13.759534470512651
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4077
+Total Collisions: 0
+Loop Speed: 18.72562507033204
+Merge Speed: 13.363241677388245
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4145
+Total Collisions: 0
+Loop Speed: 18.890013276947958
+Merge Speed: 13.761469029347195
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4128
+Total Collisions: 0
+Loop Speed: 18.76940120632488
+Merge Speed: 13.689778150926495
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4114
+Total Collisions: 0
+Loop Speed: 18.696953057137794
+Merge Speed: 13.5683110104752
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4107
+Total Collisions: 0
+Loop Speed: 18.730783492863164
+Merge Speed: 13.54998791353192
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4140
+Total Collisions: 0
+Loop Speed: 18.228301597210887
+Merge Speed: 13.686429507224721
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 37
+ Retrying in 1 seconds
+10/90
+Total Merge: 4117
+Total Collisions: 0
+Loop Speed: 18.773271578540815
+Merge Speed: 13.533034028787661
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4137
+Total Collisions: 0
+Loop Speed: 17.560361979381018
+Merge Speed: 13.73416607963109
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4137
+Total Collisions: 0
+Loop Speed: 18.754885383344824
+Merge Speed: 13.681949969416427
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4127
+Total Collisions: 0
+Loop Speed: 19.492246569885538
+Merge Speed: 13.685160417234862
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4130
+Total Collisions: 0
+Loop Speed: 18.74372011962892
+Merge Speed: 13.693034953090454
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4137
+Total Collisions: 0
+Loop Speed: 18.909985199653605
+Merge Speed: 13.771806672241148
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4129
+Total Collisions: 0
+Loop Speed: 18.699174921431474
+Merge Speed: 13.582776281940708
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4148
+Total Collisions: 0
+Loop Speed: 18.73299894817953
+Merge Speed: 13.818524563200786
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4146
+Total Collisions: 0
+Loop Speed: 18.74033810044269
+Merge Speed: 13.853659740745531
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4134
+Total Collisions: 0
+Loop Speed: 18.676813118026164
+Merge Speed: 13.631454645783872
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 38
+ Retrying in 1 seconds
+10/90
+Total Merge: 4115
+Total Collisions: 0
+Loop Speed: 18.726992874662365
+Merge Speed: 13.53060729188065
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4166
+Total Collisions: 0
+Loop Speed: 18.484314352208543
+Merge Speed: 13.950989410722595
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4077
+Total Collisions: 0
+Loop Speed: 18.919540968340723
+Merge Speed: 13.434366465769155
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4144
+Total Collisions: 0
+Loop Speed: 18.491033195230976
+Merge Speed: 13.717290716766115
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4124
+Total Collisions: 0
+Loop Speed: 18.73411194469827
+Merge Speed: 13.579149827691968
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4078
+Total Collisions: 0
+Loop Speed: 18.85888187050006
+Merge Speed: 13.31789008836969
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4112
+Total Collisions: 0
+Loop Speed: 18.81941991687587
+Merge Speed: 13.542024244712682
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4127
+Total Collisions: 0
+Loop Speed: 18.726567197333974
+Merge Speed: 13.729356108956981
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4155
+Total Collisions: 0
+Loop Speed: 18.7404348463583
+Merge Speed: 13.749583584396245
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4080
+Total Collisions: 0
+Loop Speed: 18.389840073898824
+Merge Speed: 13.360119051139696
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 39
+ Retrying in 1 seconds
+10/90
+Total Merge: 4079
+Total Collisions: 0
+Loop Speed: 18.83517177842634
+Merge Speed: 13.39450125668836
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4126
+Total Collisions: 0
+Loop Speed: 19.36759657220765
+Merge Speed: 13.606483568508603
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4090
+Total Collisions: 0
+Loop Speed: 18.722596788328353
+Merge Speed: 13.417775978012653
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4134
+Total Collisions: 0
+Loop Speed: 18.391050246728174
+Merge Speed: 13.698001082519907
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4117
+Total Collisions: 0
+Loop Speed: 18.735622576461072
+Merge Speed: 13.607527474100873
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4155
+Total Collisions: 0
+Loop Speed: 18.771644955206238
+Merge Speed: 13.806227997677286
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4181
+Total Collisions: 0
+Loop Speed: 18.727445163669003
+Merge Speed: 13.994394597800227
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4115
+Total Collisions: 0
+Loop Speed: 18.722114786372092
+Merge Speed: 13.569032300475094
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4128
+Total Collisions: 0
+Loop Speed: 18.736067173915902
+Merge Speed: 13.680366617062099
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4164
+Total Collisions: 0
+Loop Speed: 18.715691938726998
+Merge Speed: 13.907875522407057
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 40
+ Retrying in 1 seconds
+10/90
+Total Merge: 4067
+Total Collisions: 0
+Loop Speed: 18.73270611378375
+Merge Speed: 13.235992905224174
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4120
+Total Collisions: 0
+Loop Speed: 18.368213910755724
+Merge Speed: 13.683339055359498
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4143
+Total Collisions: 0
+Loop Speed: 18.713314926083335
+Merge Speed: 13.698022065506356
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4127
+Total Collisions: 0
+Loop Speed: 19.38820394960778
+Merge Speed: 13.58163120676257
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4101
+Total Collisions: 0
+Loop Speed: 18.739961740816824
+Merge Speed: 13.561948424473664
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4144
+Total Collisions: 0
+Loop Speed: 18.812421857074508
+Merge Speed: 13.80950569104902
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4114
+Total Collisions: 0
+Loop Speed: 18.682985589807252
+Merge Speed: 13.572051119670432
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4144
+Total Collisions: 0
+Loop Speed: 18.673145324003375
+Merge Speed: 13.735451228618315
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4075
+Total Collisions: 0
+Loop Speed: 18.738118913439827
+Merge Speed: 13.356404063076734
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4156
+Total Collisions: 0
+Loop Speed: 18.48383133449754
+Merge Speed: 13.836127875070105
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 41
+ Retrying in 1 seconds
+10/90
+Total Merge: 4146
+Total Collisions: 0
+Loop Speed: 18.745953878575847
+Merge Speed: 13.71976276959373
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4128
+Total Collisions: 0
+Loop Speed: 18.667811044923717
+Merge Speed: 13.648627846322794
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4119
+Total Collisions: 0
+Loop Speed: 18.853349285909108
+Merge Speed: 13.565885252699106
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4176
+Total Collisions: 0
+Loop Speed: 19.073603798644854
+Merge Speed: 13.967257820489532
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4096
+Total Collisions: 0
+Loop Speed: 18.734468291609325
+Merge Speed: 13.418250171304807
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4163
+Total Collisions: 0
+Loop Speed: 18.829131708683313
+Merge Speed: 13.900549974604031
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4162
+Total Collisions: 0
+Loop Speed: 18.83212750403432
+Merge Speed: 13.872710323235976
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4126
+Total Collisions: 0
+Loop Speed: 18.711845992865815
+Merge Speed: 13.543614018804604
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4133
+Total Collisions: 0
+Loop Speed: 18.737860395779425
+Merge Speed: 13.760495432843548
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4130
+Total Collisions: 0
+Loop Speed: 18.234876087236806
+Merge Speed: 13.768360280461314
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 42
+ Retrying in 1 seconds
+10/90
+Total Merge: 4157
+Total Collisions: 0
+Loop Speed: 18.757217650356765
+Merge Speed: 13.877090540271844
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4152
+Total Collisions: 0
+Loop Speed: 18.55994093296799
+Merge Speed: 13.793081874123276
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4162
+Total Collisions: 0
+Loop Speed: 18.81768364669654
+Merge Speed: 13.947958048621922
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4162
+Total Collisions: 0
+Loop Speed: 18.444703442304174
+Merge Speed: 13.862477084185091
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4121
+Total Collisions: 0
+Loop Speed: 18.737350118051193
+Merge Speed: 13.519540226701615
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4087
+Total Collisions: 0
+Loop Speed: 18.88939195178671
+Merge Speed: 13.411388052925977
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4146
+Total Collisions: 0
+Loop Speed: 18.699828522364186
+Merge Speed: 13.719991761962108
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4105
+Total Collisions: 0
+Loop Speed: 18.71494404969873
+Merge Speed: 13.590181197724215
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4146
+Total Collisions: 0
+Loop Speed: 18.73706768504823
+Merge Speed: 13.745479916613016
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4145
+Total Collisions: 0
+Loop Speed: 19.004030976652064
+Merge Speed: 13.795526446997227
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 43
+ Retrying in 1 seconds
+10/90
+Total Merge: 4133
+Total Collisions: 0
+Loop Speed: 18.74962835217209
+Merge Speed: 13.670471841264437
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4146
+Total Collisions: 0
+Loop Speed: 18.532289009786844
+Merge Speed: 13.75586157407829
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4132
+Total Collisions: 0
+Loop Speed: 18.66763345719661
+Merge Speed: 13.761278295613591
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4097
+Total Collisions: 0
+Loop Speed: 19.430218423185043
+Merge Speed: 13.565365348634536
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4086
+Total Collisions: 0
+Loop Speed: 18.73596951502154
+Merge Speed: 13.3679757848576
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4158
+Total Collisions: 0
+Loop Speed: 18.73834517351581
+Merge Speed: 13.824624055197518
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4128
+Total Collisions: 0
+Loop Speed: 18.70177020961134
+Merge Speed: 13.667592407598395
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4145
+Total Collisions: 0
+Loop Speed: 18.725744973024934
+Merge Speed: 13.61351484650727
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4159
+Total Collisions: 0
+Loop Speed: 18.735580539019335
+Merge Speed: 13.70678942566566
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4136
+Total Collisions: 0
+Loop Speed: 18.458974192759545
+Merge Speed: 13.711024566154556
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 44
+ Retrying in 1 seconds
+10/90
+Total Merge: 4097
+Total Collisions: 0
+Loop Speed: 18.802508079312318
+Merge Speed: 13.489630721172892
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4111
+Total Collisions: 0
+Loop Speed: 18.527581769450265
+Merge Speed: 13.608477481689311
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4133
+Total Collisions: 0
+Loop Speed: 18.743774652193803
+Merge Speed: 13.719582187818718
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4092
+Total Collisions: 0
+Loop Speed: 19.11356402206419
+Merge Speed: 13.528744088264252
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4132
+Total Collisions: 0
+Loop Speed: 18.735648087421293
+Merge Speed: 13.729634135600522
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4129
+Total Collisions: 0
+Loop Speed: 18.760267475885446
+Merge Speed: 13.651931308309736
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4112
+Total Collisions: 0
+Loop Speed: 18.739776044060537
+Merge Speed: 13.556069749669543
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4084
+Total Collisions: 0
+Loop Speed: 18.74360040944468
+Merge Speed: 13.350714961074477
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4113
+Total Collisions: 0
+Loop Speed: 18.737598812938277
+Merge Speed: 13.651560326430895
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4134
+Total Collisions: 0
+Loop Speed: 18.27313401852974
+Merge Speed: 13.668536354398569
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 45
+ Retrying in 1 seconds
+10/90
+Total Merge: 4095
+Total Collisions: 0
+Loop Speed: 18.707285014307203
+Merge Speed: 13.461240102114386
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4121
+Total Collisions: 0
+Loop Speed: 18.478249507063918
+Merge Speed: 13.665609315886476
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4146
+Total Collisions: 0
+Loop Speed: 18.847958590595045
+Merge Speed: 13.786234147614989
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4162
+Total Collisions: 0
+Loop Speed: 18.404765559568855
+Merge Speed: 13.82996164483715
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4150
+Total Collisions: 0
+Loop Speed: 18.73618563454566
+Merge Speed: 13.815864247405226
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4162
+Total Collisions: 0
+Loop Speed: 18.907333297820518
+Merge Speed: 13.910466409155466
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4113
+Total Collisions: 0
+Loop Speed: 18.73793440088006
+Merge Speed: 13.552732960934346
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4131
+Total Collisions: 0
+Loop Speed: 18.689774260929493
+Merge Speed: 13.633089024383857
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4101
+Total Collisions: 0
+Loop Speed: 18.73631592493065
+Merge Speed: 13.459352320068767
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4164
+Total Collisions: 0
+Loop Speed: 18.384582007872158
+Merge Speed: 13.921863456733712
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 46
+ Retrying in 1 seconds
+10/90
+Total Merge: 4146
+Total Collisions: 0
+Loop Speed: 18.751127595063465
+Merge Speed: 13.741674616277642
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4123
+Total Collisions: 0
+Loop Speed: 18.771494937127304
+Merge Speed: 13.71581546453779
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4096
+Total Collisions: 0
+Loop Speed: 18.61923399512371
+Merge Speed: 13.494341954522453
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4110
+Total Collisions: 0
+Loop Speed: 19.402660009479202
+Merge Speed: 13.431458106877898
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4134
+Total Collisions: 0
+Loop Speed: 18.73426212414894
+Merge Speed: 13.673098129521277
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4111
+Total Collisions: 0
+Loop Speed: 18.85707201578924
+Merge Speed: 13.577891566861048
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4151
+Total Collisions: 0
+Loop Speed: 18.718945360067487
+Merge Speed: 13.811175653825346
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4172
+Total Collisions: 0
+Loop Speed: 18.70433158650822
+Merge Speed: 13.894857105039039
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4139
+Total Collisions: 0
+Loop Speed: 18.736528503077068
+Merge Speed: 13.776594432254246
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4146
+Total Collisions: 0
+Loop Speed: 18.660519745484955
+Merge Speed: 13.784059222488766
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 47
+ Retrying in 1 seconds
+10/90
+Total Merge: 4093
+Total Collisions: 0
+Loop Speed: 18.791808706782057
+Merge Speed: 13.46442390973334
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4147
+Total Collisions: 0
+Loop Speed: 18.275577673153265
+Merge Speed: 13.748023603611756
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4076
+Total Collisions: 0
+Loop Speed: 18.79673525288511
+Merge Speed: 13.295353142739792
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4141
+Total Collisions: 0
+Loop Speed: 18.971431106751407
+Merge Speed: 13.781160705615672
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4065
+Total Collisions: 0
+Loop Speed: 18.737836538287883
+Merge Speed: 13.257802716258015
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4132
+Total Collisions: 0
+Loop Speed: 18.62918273995109
+Merge Speed: 13.665122839481706
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4128
+Total Collisions: 0
+Loop Speed: 18.73987787845914
+Merge Speed: 13.625505538282406
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4111
+Total Collisions: 0
+Loop Speed: 18.76146222509479
+Merge Speed: 13.553453536694539
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4152
+Total Collisions: 0
+Loop Speed: 18.73812485546185
+Merge Speed: 13.853391823932975
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4111
+Total Collisions: 0
+Loop Speed: 18.747611154023524
+Merge Speed: 13.615965548472662
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 48
+ Retrying in 1 seconds
+10/90
+Total Merge: 4120
+Total Collisions: 0
+Loop Speed: 18.80042538564582
+Merge Speed: 13.6175157843343
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4096
+Total Collisions: 0
+Loop Speed: 18.853588130691488
+Merge Speed: 13.470254413960102
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4135
+Total Collisions: 0
+Loop Speed: 18.789248928741003
+Merge Speed: 13.663016933777712
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4113
+Total Collisions: 0
+Loop Speed: 18.931116036892075
+Merge Speed: 13.537610984198032
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4099
+Total Collisions: 0
+Loop Speed: 18.736057285307886
+Merge Speed: 13.423061244586194
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4082
+Total Collisions: 0
+Loop Speed: 19.135423833837333
+Merge Speed: 13.40095712715782
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4073
+Total Collisions: 0
+Loop Speed: 18.740864221617276
+Merge Speed: 13.398522560623775
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4078
+Total Collisions: 0
+Loop Speed: 18.772667720498184
+Merge Speed: 13.323408968077493
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4114
+Total Collisions: 0
+Loop Speed: 18.737204526799204
+Merge Speed: 13.454876125461999
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4123
+Total Collisions: 0
+Loop Speed: 17.934106811321143
+Merge Speed: 13.588550228094082
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Iteration 49
+ Retrying in 1 seconds
+10/90
+Total Merge: 4103
+Total Collisions: 0
+Loop Speed: 18.795990221060844
+Merge Speed: 13.43335112530298
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4146
+Total Collisions: 0
+Loop Speed: 18.272751865464834
+Merge Speed: 13.805895466514379
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4118
+Total Collisions: 0
+Loop Speed: 18.725761365910987
+Merge Speed: 13.60259433974618
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4176
+Total Collisions: 0
+Loop Speed: 18.62933333798793
+Merge Speed: 13.951690090680769
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4088
+Total Collisions: 0
+Loop Speed: 18.737189062136192
+Merge Speed: 13.391386777795061
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4090
+Total Collisions: 0
+Loop Speed: 18.74951047913527
+Merge Speed: 13.491074764925115
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4130
+Total Collisions: 0
+Loop Speed: 18.728666243227067
+Merge Speed: 13.670309781943953
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4131
+Total Collisions: 0
+Loop Speed: 18.661920004442635
+Merge Speed: 13.756762813284308
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+10/90
+Total Merge: 4128
+Total Collisions: 0
+Loop Speed: 18.736705951554242
+Merge Speed: 13.604915258026496
+Particle Best for fitness:8.339978571990427
+ Retrying in 1 seconds
+Particle Best for fitness:8.339978571990427
+solution for speed=18.74, min gap=-0.58, max merges: 4188, min collisions: 0
+Merges
+[251, 355, 251, 483, 484, 521, 275, 440, 532, 286, 273, 380, 278, 497, 510, 520, 300, 458, 519, 312, 302, 397, 296, 517, 525, 528, 325, 487, 527, 338, 325, 424, 324, 496, 526, 518, 346, 510, 511, 355, 346, 440, 346, 527, 540, 506, 365, 518, 528, 376, 370, 450, 370, 510, 534, 528, 386, 531, 519, 395, 386, 468, 390, 522, 524, 537, 410, 540, 519, 417, 410, 486, 414, 522, 531, 526, 426, 524, 513, 436, 422, 504, 422, 497, 460, 541, 444, 513, 530, 445, 446, 511, 452, 536, 531, 527, 462, 531, 519, 471, 468, 504, 456, 531, 523, 541, 462, 543, 532, 489, 480, 526, 479, 520, 532, 531, 500, 540, 504, 514, 501, 527, 493, 529, 531, 526, 513, 537, 520, 510, 504, 471, 506, 523, 538, 525, 516, 531, 536, 508, 521, 528, 520, 526, 527, 533, 520, 542, 519, 497, 480, 540, 520, 510, 531, 542, 549, 542, 540, 527, 527, 539, 528, 536, 540, 532, 545, 529, 518, 518, 530, 538, 530, 533, 537, 532, 510, 540, 510, 530, 535, 531, 541, 534, 532, 529, 533, 526, 545, 541, 534, 532, 542, 537, 523, 523, 534, 497, 537, 500, 520, 537, 540, 549, 550, 539, 541, 539, 532, 550, 536, 514, 550, 508, 544, 500, 544, 530, 544, 545, 540, 489, 539, 538, 540, 520, 539, 527, 480, 545, 551, 547, 534, 520, 554, 520, 532, 504, 564, 530, 551, 547, 546, 510, 557, 545, 546, 539, 569, 510, 555, 540, 466, 491, 558, 490, 554, 556, 567, 554, 547, 547, 552, 540, 552, 550, 535, 537, 510, 538, 531, 539, 460, 531, 565, 527, 560, 532, 565, 540, 547, 543, 552, 540, 520, 566, 510, 560, 558, 547, 551, 556, 492, 555, 547, 566, 470, 520, 530, 510, 530, 546, 541, 470, 536, 564, 554, 565, 564, 540, 520, 530, 559, 540, 557, 564, 554, 555, 480, 546, 570, 470, 565, 553, 538, 510, 510, 520, 539, 540, 559, 551, 530, 551, 564, 549, 543, 553, 510, 537, 538, 550, 556, 533, 540, 450, 566, 537, 566, 574, 556, 547, 530, 541, 558, 554, 510, 572, 565, 548, 537, 557, 564, 525, 572, 502, 568, 510, 558, 535, 560, 531, 566, 560, 547, 520, 553, 520, 553, 571, 471, 570, 541, 496, 533, 540, 563, 550, 524, 533, 566, 520, 575, 576, 540, 540, 499, 551, 554, 529, 554, 574, 545, 520, 539, 569, 557, 566, 554, 518, 546, 539, 571, 539, 577, 501, 518, 540, 535, 567, 577, 550, 551, 480, 509, 443, 544, 540, 536, 421, 548, 568, 520, 528, 571, 563, 529, 496, 556, 548, 547, 540, 509, 541, 576, 572, 571, 570, 536, 574, 575, 494, 559, 546, 433, 547, 572, 554, 496, 562, 500, 561, 568, 527, 569, 510, 571, 500, 559, 580, 548, 540, 573, 557, 558, 554, 521, 510, 540, 550, 530, 558, 577, 568, 577, 551, 580, 581, 574, 504, 550, 532, 534, 575, 465, 559, 571, 509, 517, 545, 516, 568, 554, 553, 540, 547, 549, 574, 564, 481, 3036, 2615, 3193, 1746, 2437, 1675, 535, 2539, 3194, 1394, 3254, 2647, 3223, 1987, 2677, 1926, 767, 2783, 3191, 1648, 3222, 2917, 3331, 2247, 2910, 2170, 1019, 3005, 3225, 1897, 3365, 3150, 3477, 2491, 3135, 2423, 1295, 3224, 3401, 2152, 3601, 3328, 3622, 2727, 3361, 2669, 1567, 3410, 3554, 2398, 3809, 3559, 3816, 2971, 3568, 2911, 1819, 3631, 3739, 2635, 3890, 3768, 4094, 3190, 3750, 3123, 2073, 3797, 4116, 2872, 4132, 3967, 4132, 3392, 3903, 3357, 2330, 4020, 4120, 3084, 4162, 4098, 4130, 3609, 4098, 3564, 2562, 4092, 4149, 3288, 4141, 4113, 4093, 3782, 4121, 3769, 2792, 4137, 4162, 3445, 4181, 4159, 4112, 3960, 4129, 3902, 3018, 4160, 4129, 3725, 4142, 4112, 4125, 4117, 4134, 4085, 3256, 4095, 4111, 3903, 4173, 4102, 4115, 4095, 4102, 4134, 3481, 4137, 4131, 4052, 4140, 4071, 4095, 4097, 4105, 4141, 3644, 4088, 4150, 4088, 4131, 4078, 4130, 4115, 4119, 4125, 3852, 4123, 4125, 4188, 4114, 4114, 4162, 4123, 4144, 4129, 4032, 4144, 4103, 4122, 4148, 4143, 4108, 4137, 4153, 4149, 4147, 4104, 4133, 4138, 4141, 4127, 4124, 4115, 4127, 4128, 4163, 4145, 4120, 4128, 4102, 4013, 4145, 4077, 4140, 4090, 4121, 4107, 4140, 4116, 4147, 4118, 4132, 4157, 4123, 4148, 4130, 4086, 4105, 4133, 4134, 4152, 4145, 4156, 4137, 4128, 4181, 4137, 4155, 4145, 4161, 4129, 4076, 4156, 4141, 4095, 4127, 4115, 4095, 4128, 4130, 4097, 4104, 4115, 4131, 4098, 4172, 4146, 4084, 4094, 4089, 4122, 4114, 4124, 4163, 4127, 4177, 4104, 4130, 4111, 4143, 4095, 4103, 4155, 4094, 4111, 4103, 4135, 4150, 4132, 4113, 4144, 4114, 4109, 4092, 4094, 4146, 4152, 4132, 4114, 4161, 4083, 4081, 4109, 4157, 4110, 4127, 4146, 4164, 4142, 4095, 4112, 4121, 4154, 4126, 4146, 4146, 4070, 4128, 4101, 4174, 4133, 4128, 4126, 4133, 4118, 4086, 4047, 4137, 3957, 4138, 4168, 4164, 4130, 4126, 4112, 4164, 4120, 4160, 4118, 4113, 4135, 4142, 4098, 4150, 4101, 4129, 4101, 4059, 4171, 4059, 4164, 4131, 4091, 4153, 4173, 4097, 4068, 4135, 4145, 4131, 4112, 4101, 4126, 4114, 4141, 4119, 4144, 4113, 4154, 4096, 4126, 4125, 4127, 4094, 4112, 4124, 4119, 4110, 4152, 4133, 4140, 4123, 4129, 4069, 4121, 4145, 4091, 4108, 4148, 4147, 4133, 4140, 4093, 4109, 4108, 4101, 4180, 4064, 4109, 4142, 4126, 4076, 4175, 4153, 4136, 4119, 4096, 4169, 4103, 4121, 4132, 4110, 4114, 4150, 4077, 4145, 4128, 4114, 4107, 4140, 4117, 4137, 4137, 4127, 4130, 4137, 4129, 4148, 4146, 4134, 4115, 4166, 4077, 4144, 4124, 4078, 4112, 4127, 4155, 4080, 4079, 4126, 4090, 4134, 4117, 4155, 4181, 4115, 4128, 4164, 4067, 4120, 4143, 4127, 4101, 4144, 4114, 4144, 4075, 4156, 4146, 4128, 4119, 4176, 4096, 4163, 4162, 4126, 4133, 4130, 4157, 4152, 4162, 4162, 4121, 4087, 4146, 4105, 4146, 4145, 4133, 4146, 4132, 4097, 4086, 4158, 4128, 4145, 4159, 4136, 4097, 4111, 4133, 4092, 4132, 4129, 4112, 4084, 4113, 4134, 4095, 4121, 4146, 4162, 4150, 4162, 4113, 4131, 4101, 4164, 4146, 4123, 4096, 4110, 4134, 4111, 4151, 4172, 4139, 4146, 4093, 4147, 4076, 4141, 4065, 4132, 4128, 4111, 4152, 4111, 4120, 4096, 4135, 4113, 4099, 4082, 4073, 4078, 4114, 4123, 4103, 4146, 4118, 4176, 4088, 4090, 4130, 4131, 4128]
+Collisions
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Loop Speeds
+[9.528819433428126, 14.00736374698607, 9.537772063635826, 20.603108146719396, 21.33661708393326, 23.682669711754205, 10.40245199899454, 18.569768130116415, 23.503425896971585, 10.884025898675805, 10.510026864659572, 15.0060297033375, 10.536051383838958, 21.72397681648915, 22.112457779318305, 23.664582878692393, 11.412728519269656, 19.926949659531385, 23.561664568765643, 11.896475959094627, 11.524131164995138, 15.996973500850878, 11.53169224344442, 22.74320689650753, 23.18588353536253, 23.491205469360178, 12.42512594210691, 20.581304422200173, 23.44257298304834, 12.885930557764786, 12.502870844129848, 16.987917565511285, 12.526335135929969, 23.188859143437288, 23.879944037036786, 23.115937871356962, 13.431416630499013, 21.60617643745667, 23.113705114813342, 13.898834191133929, 13.507380727556606, 17.991987354339276, 13.523234285304204, 23.48154185535461, 24.09548477151122, 23.8724234067806, 14.414087515493252, 22.797300050325163, 23.29539753600492, 14.895238801903165, 14.513048117787159, 19.047002452561845, 14.527631626742785, 23.90240839239906, 23.81701481645658, 23.436928868158162, 15.425882168179653, 23.850132010359122, 23.64120401904792, 15.880457050290435, 15.516764575486501, 20.010592001582744, 15.528602487650184, 23.2489013486418, 24.096048568646097, 23.72026087247734, 16.42261458908598, 24.44827088280381, 23.35823710203616, 16.880404169836083, 16.508259121075067, 21.004548345663252, 16.5318311164021, 23.41047901017311, 23.970224855632264, 24.027875891059278, 17.414867604552377, 23.863696330400188, 23.249025230684783, 17.92697698796617, 17.510411832020353, 22.202967469532016, 17.520769012802283, 23.551534413121395, 21.84170474634742, 24.038370204029086, 18.41544897193613, 24.33699309689895, 24.08368989025594, 18.909353269430564, 18.500074689321405, 23.011848285357736, 18.733603147861803, 23.91682016975504, 24.15018486792954, 24.044447997624395, 19.46785446242786, 24.173678176873143, 23.177222686064354, 19.90799750581622, 19.513362798450387, 24.06230325184234, 19.51708631414205, 24.24966780029192, 23.730443222765672, 24.106663535709874, 20.356943408261273, 24.117102757584362, 24.22933898685619, 20.902938314821334, 20.791026807198897, 24.182176846091266, 20.566554543553913, 23.878281911457325, 23.905145572261194, 24.06476709294057, 21.48187971155879, 24.138575066429464, 23.007723446186993, 21.99846091069491, 21.194094192706434, 24.11716927298887, 21.569017735732594, 24.095375488929935, 23.874561948737906, 24.136242278526357, 22.334409708714652, 24.16679198850917, 22.94754532261247, 23.201698699474232, 22.310887170229268, 22.498628755644692, 22.67050148025357, 23.69948750714675, 24.182228229461035, 24.186408329672673, 23.494868007421978, 23.961738589176857, 24.135738783229208, 22.0479242212041, 23.457322612436926, 24.0837237732654, 23.786750735548768, 23.925006470408796, 24.01668181921493, 24.29553017669469, 23.950400188850683, 24.045365314228846, 24.22757166897064, 21.9220528049671, 23.18949246702182, 24.14928288147901, 24.37031141072301, 23.760763571951514, 24.047821058248417, 24.222095757795177, 24.519164191755703, 24.644887031520653, 24.150559825824292, 23.29270424849278, 23.453281238789753, 24.17553103744061, 23.690834102436316, 24.40379768155742, 24.548886749408698, 24.376079342516334, 24.48276412837681, 23.886924216879898, 23.917425414174534, 24.154546075931282, 24.23631928323321, 24.447651901027097, 24.200300668466713, 23.95433732502292, 24.604596907558765, 24.56830489087973, 24.095595292058746, 24.3670502985402, 24.159808097864147, 23.687199724584595, 24.697874366389158, 24.20693990370196, 24.718506927142517, 23.968982320413872, 23.680374798393306, 24.322987020867302, 24.111007300081276, 23.955243688624797, 24.75071365869285, 24.872815453027265, 24.939682832069604, 24.082466825075542, 24.614806421386042, 24.291057461985947, 23.6491592307804, 23.83686970183906, 24.15233307628556, 23.589241127213477, 24.53373072873668, 23.78920525665618, 23.779768702701613, 24.46799273599186, 24.607492874030115, 24.68544512542197, 24.79540304257005, 24.69623462771882, 25.19279432958994, 24.870192637400542, 24.65331419181053, 24.825288177817608, 24.54777383918307, 24.223937081685868, 24.72692084725412, 24.300054750416713, 25.266462789235266, 24.153926052421966, 24.72895815788374, 23.878794552297506, 24.916605330298154, 24.674862810253924, 24.892437401018004, 23.608472205326006, 24.6562559056113, 24.660701119407303, 24.599678449753124, 23.998468543230988, 24.0764735508053, 24.377576657186392, 22.351429099437425, 24.953056661894724, 25.225261803363342, 24.887619752087538, 24.898633137419882, 24.374778059845198, 25.194063446519394, 24.978984128443894, 24.84157200612656, 24.66062477967522, 25.437338167077993, 24.93166364497114, 25.424180856862566, 25.182921042613515, 25.155864383616013, 24.41019862096236, 25.530339840863054, 25.189651332790273, 25.024021528635895, 25.606701222346018, 25.808146934335912, 24.876857377362885, 25.31000728248815, 25.153184327547358, 22.685922153135976, 23.721576192482246, 25.807518455000004, 24.0306315050112, 25.93554808775443, 25.073997369204555, 25.934084727468896, 25.052772780242567, 25.744334860954357, 24.941594400588002, 25.81572097152555, 25.456489375233215, 26.05029441022363, 25.444394306605332, 25.789232466806006, 24.927057086627972, 24.808547212383125, 24.586706478883542, 25.126537019416656, 25.719898950274022, 22.718645142118298, 24.741209594734066, 25.66231783548494, 25.063768170922515, 25.753677695863047, 25.552295113075008, 25.605768230791945, 25.469920628005234, 25.07251816361332, 25.70177587309594, 25.305309729160317, 24.663149591250722, 24.981139298247665, 25.81965983465272, 24.61504407117018, 25.485427624720103, 25.65269813682617, 25.073594320277067, 25.89844522270345, 25.567758070827892, 23.99418437536251, 25.620991248162284, 25.626630923588866, 25.94162609568801, 22.625039763346546, 24.637863782973, 24.961911615876556, 24.7369274111723, 25.081426987974748, 25.297897170035814, 25.52348085582691, 23.038988390632074, 25.40391503320804, 25.707039269501035, 25.82886201837569, 25.771127455454902, 25.66288353209583, 25.206570087055447, 25.04135626011197, 25.211588355610868, 25.9478965007389, 25.108663885589987, 25.78410573444762, 25.793219449130586, 25.922923191741642, 25.84764807236974, 23.082371013266823, 25.762420854236424, 25.98244567914737, 23.120525106900388, 25.91037807331482, 26.122474591298662, 25.284117787234038, 24.678571772859467, 24.757719311798112, 25.037651495939933, 25.52288562499918, 24.791576770822775, 26.228824654632067, 25.55593341130807, 25.1767255111072, 25.442060664456893, 25.893076838963424, 25.591733306101688, 25.794680968336074, 25.809507272563526, 24.629221392564304, 24.948631162024427, 25.574730063355968, 25.217020255992296, 25.933585790062295, 25.55156200007737, 25.63028852782476, 21.712774789420166, 25.917527280150654, 25.504024226589195, 25.835766251998006, 26.175900785345668, 25.906155532256076, 25.15383685547544, 25.71678563915357, 25.649817199250197, 25.608181461615132, 25.75736978027912, 25.051444586971193, 26.1744673994251, 25.80011853117274, 26.391567207041067, 25.815609811093772, 25.981589628251115, 26.186500862847517, 25.410956767796694, 26.50781815590091, 24.309262790457126, 25.95049026022179, 24.817743988405294, 26.380147080605305, 25.39697797723337, 26.321377880213102, 26.032036910449612, 25.959982955281596, 25.660638931433024, 26.004208063442555, 24.949240657184813, 25.95575046411855, 25.149317285535183, 25.653594375761262, 26.187074800184458, 22.76227931191175, 26.114475728682496, 25.839373026380112, 22.878798956705054, 25.675088326535935, 25.302483999023192, 26.25402661835083, 26.11646405119273, 24.972353504798413, 25.606394659665025, 25.890578606347496, 25.356051263986945, 26.32706862949488, 26.41130144935211, 26.12005049224396, 25.282641522658267, 24.47724457901374, 26.126323576943395, 26.257646354674904, 25.788948520484084, 26.111286681106137, 26.66157508276704, 26.496727727921748, 25.34474644065867, 25.838004208404847, 26.551499432242526, 25.927048570965617, 26.137921503754274, 25.540367504730554, 25.171657029198737, 25.647174606470077, 26.435649040384074, 26.3827417242035, 26.042753927536875, 26.485646174116955, 24.578968628698608, 25.06808847969352, 25.75294523504119, 25.696499336682976, 26.380439754834693, 26.63297451465806, 26.52823720388922, 26.235883577769126, 23.69948323466799, 24.926078113959402, 20.8718566453673, 25.929764572905786, 26.095849079699825, 25.756763315368318, 19.648050969552287, 26.57669179200101, 26.11028651867824, 24.94434524637591, 25.73371499202464, 26.484012874942703, 26.68477896917985, 25.82765320767291, 24.513590129207245, 26.36447628024955, 26.04070790228114, 25.879631085950916, 26.34127862828302, 25.10703062810412, 25.70095872913217, 26.499675646186898, 26.788359222972318, 26.374264741307005, 26.394576811711968, 25.890976721191088, 26.227107601790536, 26.620013035592535, 24.276424273830507, 26.25566633690821, 26.103146288690954, 19.843196869163375, 26.59793557571125, 26.45996791433593, 26.325394382099514, 24.626786673126162, 26.134023615189307, 24.713935946218648, 26.41522010778152, 26.482561264564964, 25.852191665257006, 26.47547574185734, 24.928913657009577, 26.496081543441445, 24.694140544268116, 26.23858751153206, 26.566215457068616, 26.154076685742766, 26.217529875955492, 26.622859089772323, 26.20744356452855, 26.3406153276759, 26.14232727304075, 25.819295306611814, 24.710168434185114, 26.047351605047304, 26.514738567811563, 25.26436031969511, 26.613319978400472, 26.56862045306263, 26.47422780008882, 26.489385340020295, 26.44444696853639, 26.506930075821494, 26.52303585455774, 26.455206085357716, 24.84421444600918, 26.308524108537622, 25.6127140524471, 26.060685647670777, 26.312995081921773, 23.08036014173725, 26.763661298332142, 26.468882327434205, 25.04755330560606, 25.65016743011125, 26.236583150806837, 25.342385577252795, 26.427951941976204, 26.382526863812807, 26.28736516597226, 25.983440898436193, 26.404577157293566, 26.33704997269551, 26.194324106979295, 26.499848592839875, 23.48183522895829, 11.78247628170863, 9.887133229430392, 23.515210806527758, 6.4177156099266535, 9.197609643832518, 6.130340917881993, 1.7139705013390445, 9.593868587908016, 18.126113641081787, 5.029053649771859, 12.78321543717167, 10.218596815228294, 22.666747713804266, 7.417526354984139, 10.19335981555779, 7.128506636149185, 2.7000488795941626, 10.594807110632763, 17.129046251608365, 6.034073885718839, 13.279631864368408, 11.216303455398517, 21.796940313059316, 8.408869879274526, 11.191821297124116, 8.139097509635594, 3.6941963654200536, 11.593897825203614, 18.127916064785136, 7.028820705983811, 14.274104383272396, 12.221165116501476, 20.76348403159231, 9.418933780480819, 12.189423920078474, 9.131753212059238, 4.6919187147732755, 12.590882659047073, 19.131170262952796, 8.025415178866561, 15.271162639351543, 13.217640969579163, 19.76291047033405, 10.414092350723603, 13.191982506348674, 10.126433575786423, 5.682321631559602, 13.589673869974805, 20.12984285768631, 9.035133564628971, 16.268690241212884, 14.213550502994691, 18.7638574996436, 11.415880726866387, 14.190326663623898, 11.13476783056987, 6.6923426702211035, 14.58462523640804, 20.32592583341596, 10.031432504761652, 17.26832013244168, 15.207893171761762, 17.764215156229962, 12.40899765063, 15.189527912420987, 12.125303273584192, 7.68706092880342, 15.581721689193332, 19.357228083955007, 11.025120284396504, 18.265564982078793, 16.206442513139326, 17.994214834432047, 13.406209701611225, 16.18733695989627, 13.124054460131312, 8.688330176709265, 16.578097328021755, 18.32494953894904, 12.027467673028939, 18.7650348492475, 17.203681659773824, 18.990118678604297, 14.402428343674728, 17.186678581870733, 14.12290176801946, 9.68794366107389, 17.575938546996642, 18.28363224261249, 13.02135743054935, 19.013951552146466, 18.202404668449528, 19.325280002034056, 15.400218378216152, 18.185122447477294, 15.11991697641693, 10.689479217136196, 18.575942994039124, 18.51741467647451, 14.022032679057261, 18.286707927214657, 18.786363925917335, 18.325651033132253, 16.4007358359549, 18.73092181599188, 16.118736366127866, 11.683629311299429, 18.54942858295173, 18.18106056109775, 15.020883302870615, 17.92309257207459, 18.179061427112153, 17.54910644109047, 17.399150340863137, 18.467629661659533, 17.117998079267068, 12.681841100364208, 18.29922906504601, 18.470876326856168, 16.020778566627705, 18.06645333766013, 18.437302634465976, 18.036427072575385, 18.397050345325752, 18.127387395849006, 18.11582137722011, 13.680807249103614, 18.213955299210838, 18.594991893696232, 17.047453068014356, 18.813371755033295, 18.667593715167026, 18.60125615851303, 17.39805424248952, 18.54202082692525, 18.73602318496053, 14.677816980095207, 18.375531478165346, 18.285816819253487, 18.016075868224796, 18.343352200114243, 18.8739993716257, 18.016166131000233, 17.433862332442835, 18.281498361421118, 18.75458128306014, 15.674741928115873, 18.618314375212297, 18.258303353513146, 18.737221908585433, 18.19651078086199, 18.685133621622036, 17.966233254862043, 18.432736482737223, 18.988216579116838, 18.736095621414794, 16.673542876117374, 18.93764347166952, 18.832522980828042, 19.096175553389013, 18.217220971387086, 18.723383880595716, 17.943769909205457, 19.43003073029318, 19.1466367848725, 18.724688164267317, 17.671648627699003, 18.73722807650785, 18.710585765450308, 18.511911455708773, 18.505601119217438, 18.836554215508283, 18.730182165650376, 19.820220217342875, 18.814515684928633, 18.726956321291592, 18.67227512882103, 18.28259481076444, 18.62783224593578, 18.79358734034876, 18.62523243685715, 18.720174984836596, 18.791272258390013, 18.81141943583474, 18.93390779696321, 18.73800686315525, 19.190826567361032, 19.10397496021823, 18.562589442246193, 18.88295790414014, 18.17987838229436, 18.69772117417446, 17.79392422681811, 19.337032451168835, 18.972645678255496, 18.737019718485058, 18.194014699953797, 18.10583195988009, 18.764750076412856, 18.76898364884308, 19.006338018047433, 18.793456840706277, 17.727810361788013, 19.311085644027187, 18.66085066055679, 18.727944922992883, 18.866865794926742, 19.103325478816306, 18.54270474162343, 18.671245246238282, 18.582397412720063, 18.75700702724417, 18.755000471892444, 19.202115368199046, 18.619305410905312, 18.720798153914938, 19.034180094029054, 19.073274723638075, 18.75551619674871, 18.8173380869911, 18.129246231841023, 18.73323251806236, 18.23537477936791, 18.87487438082056, 19.117418610897076, 18.74014704780128, 18.30297495809549, 18.852042646096443, 18.55032777247899, 18.76063519309691, 18.699952063508842, 18.760972889114207, 18.18850810255777, 18.90883203694806, 19.199872718659723, 18.724789760343885, 18.92730982391262, 18.013126313070345, 18.569792705768766, 18.666787749682396, 18.771560112476955, 18.787400499213337, 18.882629381942728, 19.035314715924393, 18.887267920653983, 18.739000771292492, 19.01047294871187, 18.30355474740938, 18.550851938879436, 18.723373972906774, 18.479047201467516, 18.738927433667765, 17.923992294539453, 19.355885024942392, 19.099895028015418, 18.716502339032655, 18.755291036791736, 19.194232130001712, 18.54902274096917, 18.76743695622812, 18.635049422610965, 18.804302547480628, 17.820823097389262, 19.08055460586793, 19.38073456973335, 18.739802578437104, 18.737109261321486, 18.67580708107021, 18.551556884047788, 18.732648280451365, 18.34820732160412, 18.770190320196665, 18.818072157694857, 19.0911559290436, 19.038959031126485, 18.739797043656075, 18.80823879374389, 18.347035964644462, 18.570971411360315, 18.725592975153234, 18.401627856919742, 18.742171775996848, 18.797407417362773, 18.94584644196653, 18.8292816107909, 18.729411865626286, 18.775921307557663, 18.378532899044227, 18.62864355120612, 18.569842082724115, 18.676627287535112, 18.798511401921147, 17.798003797583554, 19.064383577013846, 19.174374799290923, 18.733217229556352, 18.685129557845052, 18.867971865227076, 18.668563356457852, 18.74418294729464, 18.245496844234108, 18.778366402580943, 17.587745652433508, 18.763593774631616, 19.182554071187155, 18.719170889250403, 18.971625340516013, 18.405633481512684, 18.7665760452654, 18.719414625998095, 18.14000839271688, 18.712254402802373, 18.585377350854166, 18.58756427963114, 18.32416647119828, 18.735091155965492, 18.63712368511486, 18.811377476079997, 18.745548703083998, 18.71934978375502, 18.596784953805393, 18.786619226968046, 18.786433659507217, 19.587071730955536, 18.52894400893855, 18.744747062202315, 18.887507886505297, 18.72083407661384, 18.59979747000417, 18.73429489194958, 18.574614634455045, 18.76024119576623, 18.46106037666985, 18.588613335768525, 19.02358396699541, 18.729054139743877, 18.77212992277985, 18.61264136933537, 18.6798005724369, 18.747009507298614, 18.401331039182374, 18.762167404864112, 18.32425557396956, 19.58684675927938, 19.327852628072307, 18.74510173954312, 18.688320541960948, 18.599421404156725, 18.61876511101276, 18.725038033419352, 18.36741165650422, 18.74353794257542, 17.950741640080174, 19.025207222020892, 19.07821888628721, 18.7463325344861, 18.841453219266754, 18.78283856835835, 18.714063481696435, 18.751749866686232, 18.642771756847996, 18.814248981496956, 18.351956699379688, 18.795282195491616, 18.517389315880685, 18.72261787212035, 18.724475985605338, 18.811449682479257, 18.688292366667536, 18.735515303024595, 18.630113464637642, 18.80776197740593, 18.354986318143617, 18.62584553727655, 19.19554204612924, 18.72562507033204, 18.890013276947958, 18.76940120632488, 18.696953057137794, 18.730783492863164, 18.228301597210887, 18.773271578540815, 17.560361979381018, 18.754885383344824, 19.492246569885538, 18.74372011962892, 18.909985199653605, 18.699174921431474, 18.73299894817953, 18.74033810044269, 18.676813118026164, 18.726992874662365, 18.484314352208543, 18.919540968340723, 18.491033195230976, 18.73411194469827, 18.85888187050006, 18.81941991687587, 18.726567197333974, 18.7404348463583, 18.389840073898824, 18.83517177842634, 19.36759657220765, 18.722596788328353, 18.391050246728174, 18.735622576461072, 18.771644955206238, 18.727445163669003, 18.722114786372092, 18.736067173915902, 18.715691938726998, 18.73270611378375, 18.368213910755724, 18.713314926083335, 19.38820394960778, 18.739961740816824, 18.812421857074508, 18.682985589807252, 18.673145324003375, 18.738118913439827, 18.48383133449754, 18.745953878575847, 18.667811044923717, 18.853349285909108, 19.073603798644854, 18.734468291609325, 18.829131708683313, 18.83212750403432, 18.711845992865815, 18.737860395779425, 18.234876087236806, 18.757217650356765, 18.55994093296799, 18.81768364669654, 18.444703442304174, 18.737350118051193, 18.88939195178671, 18.699828522364186, 18.71494404969873, 18.73706768504823, 19.004030976652064, 18.74962835217209, 18.532289009786844, 18.66763345719661, 19.430218423185043, 18.73596951502154, 18.73834517351581, 18.70177020961134, 18.725744973024934, 18.735580539019335, 18.458974192759545, 18.802508079312318, 18.527581769450265, 18.743774652193803, 19.11356402206419, 18.735648087421293, 18.760267475885446, 18.739776044060537, 18.74360040944468, 18.737598812938277, 18.27313401852974, 18.707285014307203, 18.478249507063918, 18.847958590595045, 18.404765559568855, 18.73618563454566, 18.907333297820518, 18.73793440088006, 18.689774260929493, 18.73631592493065, 18.384582007872158, 18.751127595063465, 18.771494937127304, 18.61923399512371, 19.402660009479202, 18.73426212414894, 18.85707201578924, 18.718945360067487, 18.70433158650822, 18.736528503077068, 18.660519745484955, 18.791808706782057, 18.275577673153265, 18.79673525288511, 18.971431106751407, 18.737836538287883, 18.62918273995109, 18.73987787845914, 18.76146222509479, 18.73812485546185, 18.747611154023524, 18.80042538564582, 18.853588130691488, 18.789248928741003, 18.931116036892075, 18.736057285307886, 19.135423833837333, 18.740864221617276, 18.772667720498184, 18.737204526799204, 17.934106811321143, 18.795990221060844, 18.272751865464834, 18.725761365910987, 18.62933333798793, 18.737189062136192, 18.74951047913527, 18.728666243227067, 18.661920004442635, 18.736705951554242]
+Merge Speeds
+[9.885360337214564, 13.281965045149734, 9.813443098341484, 14.059340704787063, 13.702895458550685, 14.290197986568002, 10.653164839761095, 13.056219208651104, 14.639851446535847, 11.00553348072591, 10.843005514340575, 14.131416922914383, 10.830814530244666, 13.536078575042023, 14.16933219999989, 13.849372155812631, 11.524093595998957, 14.2236551688407, 13.654699631662107, 12.006818468621184, 11.702912611261649, 13.756567273540718, 11.719165191614955, 13.79410159718448, 14.170467299602143, 13.79524127229417, 12.20603661271424, 14.250472638891386, 14.340351241227028, 12.923500626717317, 12.653493541794203, 13.991128014071082, 12.39452176376495, 13.682711195582208, 14.099806412181184, 13.825757452220795, 13.166015450339323, 14.62395504491488, 13.37299863849558, 13.658430305725888, 13.187475875009003, 14.269255373106951, 12.994409366874928, 14.169931642897017, 14.2527600581272, 13.870332272962882, 14.001676494654557, 14.18634718558604, 14.932663853593587, 14.318644319200915, 14.186505424394655, 13.587762305933458, 13.653513073654839, 13.962816205964431, 14.141883780906497, 14.477712589802652, 14.33072816227921, 14.503242392105788, 13.343625508654867, 14.216129491174977, 14.014474001567047, 13.9747767282058, 13.81827371083369, 14.048478601418212, 14.208252113732417, 14.236734326081084, 14.558463313609677, 14.017111731990711, 14.124071595085239, 13.984522977079981, 14.254486117659033, 13.85881686607899, 13.781409166095491, 13.574353958106403, 14.185934735666832, 13.618352789034304, 14.030082435515576, 14.000671232935975, 13.598238996630998, 13.834963135797963, 13.789267954592633, 14.014910784167323, 13.851346547206616, 13.263174920961749, 12.76832244337629, 14.316254380544997, 13.723343523255094, 13.706847448380062, 13.49530749725812, 13.816691050731965, 14.946637951672633, 13.627909813280436, 14.291229986143652, 14.374720053251057, 13.771556638006281, 13.701170118224917, 13.853806729279974, 13.601484819546485, 13.753280314860582, 13.995697248578857, 14.349451359738541, 14.16887470781045, 13.330475146838374, 13.49641231710864, 13.54098644886316, 14.529255322763229, 13.456545514278943, 14.88118742642954, 14.20173054749345, 13.694413386161656, 13.257578475955068, 14.107224708563816, 14.164653991868589, 13.24315577401071, 14.038906968606751, 14.456261945856347, 14.366591145790302, 14.315349170888203, 13.163142044707769, 14.75009287218526, 14.631380275156669, 13.468746137645333, 13.22461187410926, 13.762646736254055, 14.173310501556799, 13.792872830576846, 14.190756603252346, 13.920819682170094, 14.677680230379666, 13.917473184938986, 13.562211443537322, 12.624004607523009, 14.144557129304312, 14.493960120581853, 14.780693176372006, 14.30321521421148, 13.556905050598791, 14.130740686328497, 14.681125376293242, 14.25730114566589, 14.11860563555772, 14.369566874840167, 13.866685423405011, 14.612621331221737, 13.5527870433639, 14.391551551060225, 13.017735582795314, 13.924836111082266, 13.650037799400708, 13.7575675304546, 13.19691862110471, 14.651040894754264, 13.314886156101098, 13.095328590637985, 14.247678913394841, 14.54163727215585, 14.654618160493365, 14.059226213130168, 14.078661440195393, 13.888446522298551, 14.210225792868874, 13.946277358587876, 13.699343752346037, 14.22142016064563, 14.062862417781531, 14.514370085975873, 14.583566196139607, 14.237332317266386, 13.510463255235882, 13.667318086601794, 13.668368845448281, 14.071106347320999, 14.402870383231026, 13.937145957926303, 14.074397957486605, 13.323916433755475, 13.542540246564377, 14.215864404008968, 13.28704222206465, 13.873514800712483, 14.56895134229812, 13.97009251905075, 14.373385286099605, 14.66983906326019, 14.753429706848951, 13.578946163393637, 14.507182848579045, 13.976793525840828, 14.185290702157651, 14.837858161305109, 13.897557017617753, 13.7564381679243, 14.374571348704754, 13.415496345227337, 13.54852098982527, 14.008795620152599, 13.92209766538403, 13.786224705749202, 13.88059339192315, 13.517116217490265, 13.60594761367258, 14.599571454478543, 14.343685262759045, 14.55729575807975, 14.37774016608552, 14.912096642838033, 14.409938314874514, 13.369760357305006, 13.984321427153214, 14.074706221610114, 13.949958835360855, 13.192609603877903, 14.154298532792549, 13.787695762892058, 13.546389714729138, 13.49730030927852, 14.482713950488694, 14.09083482386606, 14.769928781188897, 14.037205107147582, 13.971395685539886, 13.098612084144708, 14.194160665109706, 14.167094782448796, 13.470177210833347, 14.388094874156717, 13.9815072456262, 13.8963435590007, 13.430688544852382, 14.687053312840355, 14.176774955401058, 13.975587005638502, 14.243370451267262, 13.797302650116391, 14.690027869389693, 13.723191328233046, 13.32342269878197, 14.087078978533606, 14.935305725002658, 13.453529878251372, 14.21248603512225, 13.959325176448305, 14.283336407326104, 14.119174516805133, 13.828491499628312, 14.055914658033362, 14.456513794180674, 13.481364777700092, 15.202537941772485, 14.138355333168887, 14.195148328783201, 14.276370464749531, 13.408632985801146, 13.7410988197213, 13.967630541647694, 13.349951902747543, 13.641497998554076, 14.356695862629753, 14.23132699612677, 14.814982970112775, 13.957617955342162, 14.060874036455456, 13.400057971682404, 14.385974056714593, 13.550387195204094, 13.843569310905314, 14.051036429849402, 13.557575060768414, 13.566479596448023, 13.510134211725985, 13.438915368594367, 13.455428100211403, 12.996818708809913, 14.143441814163385, 14.132962662059338, 14.4385769695272, 14.549833115886969, 13.395784711100383, 14.354364032819966, 13.221400141955941, 14.103909396947056, 13.644248407504536, 14.140869679608048, 14.039980416260082, 13.824918704389308, 14.337600436093279, 13.941920060869782, 14.252123706859466, 14.61098970727868, 14.458661449636336, 14.155710310163553, 13.972218634261116, 13.892141300528062, 14.488803048583687, 14.091923830258493, 14.392796593240698, 12.532582230502772, 13.56481091169673, 13.087143823596596, 13.566315219141561, 14.07159118298777, 13.37702572422041, 13.777140362449627, 13.305374198042177, 13.25103985149835, 14.238705838272182, 13.729844561098172, 14.045777347927858, 14.25736544900952, 13.799720221249396, 13.998542031599776, 13.874330418093988, 14.261611990328793, 13.589637061068784, 14.445329437431958, 14.385774935083282, 13.984067109103698, 14.17398158872885, 13.165061971390866, 14.428617536706813, 14.653637509314127, 12.932254322054575, 14.602269789986432, 13.939762226095343, 14.297732178775988, 14.073264298825116, 13.485377123705174, 13.879976053253595, 13.791613836042151, 14.0643291875578, 14.188483802315947, 14.051354944036442, 13.567288037843996, 13.732677511971676, 15.018881621387942, 13.423602942737189, 14.105560962540014, 13.766050162124156, 13.81406273943438, 14.103830049006564, 14.103962434792408, 13.91258542766756, 14.048648552429746, 13.894575354564708, 14.402989888098366, 12.41021137135073, 13.841032268252837, 14.337527674198315, 14.864594849636656, 14.539254883949644, 14.417582753201378, 14.042210671563085, 13.857076367257296, 14.04619511922592, 13.700364436107739, 13.79888496692135, 13.936537735417929, 14.891931264755836, 14.389148393620255, 13.933015388261111, 13.824124830531199, 14.937759856904114, 14.068361998617904, 13.761433759482527, 14.574306746381605, 13.564452818473391, 14.345755738316821, 13.374241137858094, 13.679245253704277, 13.903351970025831, 13.914458312797903, 13.77427430668253, 14.432187799730201, 13.861336523075186, 14.070886374904996, 13.913240779390403, 13.56030027510124, 14.107170787070393, 13.723732748731756, 14.285704273038375, 13.264538043409967, 14.201015530973221, 13.447345388957897, 12.944864488815462, 13.351187879535653, 14.011842226638345, 14.210081353788922, 14.046513961433519, 13.703522216124263, 13.365047071990293, 14.278840444016744, 13.628393369698882, 14.628102732470047, 14.371426007214806, 14.017322363740675, 14.090213156495292, 13.43614318066454, 13.526077892536824, 14.325105702684088, 14.205151780422865, 13.63502210853283, 14.113441320213775, 13.439344117665183, 13.079416685452365, 13.503920251513753, 14.398483659121686, 14.484876710954012, 14.841590217521475, 14.509041227033018, 13.437673884213703, 13.817535859100033, 13.659691502362287, 14.641644091289363, 13.094522155951706, 14.682643464433808, 13.372309892162647, 13.97731686247758, 13.622132598795744, 13.277814716247168, 14.296656236562336, 14.371083047821035, 14.29566970293264, 13.927287956612453, 13.151391470201265, 13.73469521866544, 13.022372799548702, 13.936344298278202, 14.030301316251155, 13.620761392655057, 13.089586798844643, 13.668635604604729, 14.25573168482913, 13.107234645187937, 14.467019779050853, 14.090436621394954, 13.222646972835122, 13.688946554332537, 13.327007195841698, 14.011849644509207, 14.233381136520329, 13.548608898127597, 14.212800161713858, 13.753070550654133, 12.985645842832286, 14.162366957558788, 14.27092217829879, 13.962518397143185, 14.171958009430897, 14.278469890717306, 14.375528380102681, 14.398298360165633, 14.184118361144883, 13.853403639853154, 13.68341066363399, 12.11453394962991, 13.947905049576503, 14.706474012705911, 13.933250038090625, 13.781870502898292, 14.283841603340305, 13.576625401940984, 14.216119574080768, 13.798246163060726, 13.74554294837165, 14.184566601366617, 13.441203411784048, 14.173433733840088, 13.177068548385739, 13.684705819584522, 14.275614364807444, 13.791174627657691, 13.809180708063488, 13.86696404966453, 13.832076404776219, 14.070790281957429, 14.020739121352854, 13.46747299441062, 14.470006376903722, 14.063304408375714, 14.199584357994306, 13.249482680188201, 14.138835404529393, 14.240602532706708, 13.970556396473166, 14.38271939085196, 13.743938247566048, 14.294012708581695, 14.73928822999413, 14.128969827695117, 13.421630078934003, 14.021548390495825, 13.758811839428756, 13.82574042075875, 14.55818663084917, 13.089185411177517, 13.787489488719226, 14.659020287768938, 13.726478826167009, 13.78337108465167, 14.045717046756224, 13.817934971720794, 14.386548563991187, 14.168871907509129, 14.034182486840724, 14.133288821654455, 13.952138873640921, 14.09140741954824, 14.043411486701979, 14.037515021622811, 13.632781723034988, 11.765075027976598, 9.926115707168224, 13.507701392857456, 6.409249716441294, 9.216633861639782, 6.138262545155586, 1.7071619428381393, 9.618216945727987, 13.813093606577652, 5.0261030229374395, 12.696029279419061, 10.210669058339887, 14.204587751083604, 7.429448621153652, 10.204262619555204, 7.146939376267223, 2.698347198510437, 10.622116615655395, 13.827985309876953, 6.042216535278935, 12.90589465425971, 11.207456159380081, 13.837967218786835, 8.44207217695462, 11.191637495372664, 8.166662864876598, 3.7086794809923824, 11.538904992335308, 13.834338287838643, 7.035928782062959, 13.55855912576885, 12.172239707875413, 13.73411365245813, 9.435451324082315, 12.16063546650862, 9.152292862666103, 4.694567672977632, 12.397704303118147, 13.966220335823671, 8.049401716838258, 13.728595284229371, 12.895928626918364, 13.870768159423042, 10.449728561078395, 12.83499443058049, 10.166202105098773, 5.688123283179596, 12.96200828031823, 13.660775093930903, 9.0482088160737, 13.892481666671923, 13.519340479529765, 13.686804948994766, 11.423025180840156, 13.450065758967172, 11.147485496077273, 6.697951570314847, 13.478450492533582, 13.434798388753274, 10.052990585996115, 13.703121465518947, 13.681030329482246, 13.727558710402178, 12.29791769849923, 13.585570148309255, 12.038341441398604, 7.69996565412355, 13.406745397023721, 13.533800991187556, 11.04040379676779, 13.718462489656666, 13.816555908075046, 13.58283691219371, 13.070890151793877, 13.674604632995067, 12.90456038780721, 8.710666885279222, 13.75651360691601, 13.521129320246704, 11.924723093760136, 13.736579883721419, 13.665660913958176, 13.615354762381434, 13.423817947187224, 13.656172523264955, 13.453150566893813, 9.717644912131794, 13.428770474056813, 13.765159594436392, 12.775527301460942, 13.664742346921294, 13.50840349098803, 13.521635138019812, 13.340772539782204, 13.705680425471853, 13.869560819363596, 10.704398040117736, 13.78771362485815, 13.916578481096577, 13.049415562270383, 13.983326354581727, 13.837931566546922, 13.552174944090295, 13.564519748371774, 13.624575968404471, 13.462285349753403, 11.683881628582208, 13.908532670633656, 13.663449199153128, 13.596473457533419, 13.74762734741073, 13.540827601927674, 13.603616565262795, 13.633784502333397, 13.695802762990786, 13.596201111122515, 12.535480443623328, 13.377751342744356, 13.589009141583976, 13.535843851658536, 13.969678613183435, 13.393816360074204, 13.574238520134047, 13.495467040687606, 13.486167430126656, 13.734456000253264, 13.254878344940456, 13.663868083145427, 13.691584360409225, 13.431021995420165, 13.769703104349304, 13.2981503914122, 13.521677947246665, 13.494792090682575, 13.575798619929463, 13.767332531331842, 13.580995114223246, 13.406166434060733, 13.743302172790818, 13.446076868163214, 13.661076206168278, 13.252164045731785, 13.716431874617458, 13.424358325707319, 13.56360926123133, 13.684332520241137, 14.027655955794646, 13.660283263246976, 13.693699286234954, 14.037257868838418, 13.594177634879204, 13.84848127563421, 13.782126126411603, 13.669044723650607, 13.780037223515277, 13.618938896180579, 13.766862795934314, 13.730132216375765, 13.511623132694488, 13.643494257940352, 13.77504288477679, 13.800385556051681, 13.485083722486914, 13.75770733421003, 13.878995990834499, 13.820509857706966, 13.80881857285691, 13.414075105528962, 13.72625691239359, 13.737607032675642, 13.69245873607576, 13.617441865202032, 13.624652895970204, 13.577690697478136, 13.680333567824073, 13.557377448640635, 13.943041219901467, 13.695364842095113, 13.592145505137392, 13.601828887358453, 13.466696148093927, 13.645727898292462, 13.731609757926929, 13.290167612436557, 13.7246883612041, 13.38380672486577, 13.55998183449967, 13.534672159489421, 13.676925786817351, 13.540156595874405, 13.7751819196663, 13.601478955943339, 13.601148356779893, 13.88884815142854, 13.633992558860307, 13.83072745617164, 13.702196067883339, 13.40122756522394, 13.318484970404565, 13.808559072566203, 13.741642776687312, 13.86053129811024, 13.809357441037427, 13.866366128029119, 13.781838656592075, 13.510376517865703, 14.004927249824659, 13.699157660406067, 13.74081254145925, 13.711419758795829, 13.791919330892517, 13.566641975812386, 13.321499010200085, 13.839074895410672, 13.823996181245077, 13.430949140005508, 13.648219122148056, 13.394691733992165, 13.463846639322275, 13.620758736304692, 13.683070720925432, 13.451112846357123, 13.546961067557165, 13.561628633881904, 13.651167095360924, 13.459953761012526, 13.911543506654363, 13.76600428899521, 13.344283392099975, 13.47363098526149, 13.369172191918985, 13.672572254341443, 13.549021776168507, 13.593910796581019, 13.914136815533762, 13.635535020880438, 13.96427706357357, 13.5822464008155, 13.648855759772426, 13.49631005510119, 13.673864071053263, 13.35544088966423, 13.358123917257036, 13.862406217667086, 13.434332443841027, 13.593553531513557, 13.509899926103715, 13.727928676923343, 13.777708586482838, 13.692445698400238, 13.550702344831624, 13.781037450169055, 13.496437877794257, 13.514350746230686, 13.333646220425422, 13.457244096103318, 13.85292985816273, 13.877607834763985, 13.693415407257842, 13.416217078346568, 13.852018014898936, 13.36295548959661, 13.313456808042476, 13.40590705598202, 13.845783615799874, 13.531688189466918, 13.730026491843725, 13.819377595223136, 13.846781530177463, 13.750912628185283, 13.413446471451936, 13.536488520833402, 13.551406286337816, 13.731236543593, 13.647517961553906, 13.775123996725256, 13.697935993988189, 13.325467234355306, 13.645833211488286, 13.495804497875568, 13.96222259124362, 13.860862268696206, 13.560186971575845, 13.652122766565283, 13.778981979192386, 13.575501536351856, 13.463975703438532, 13.26358285606697, 13.715624579459258, 13.338495167573557, 13.718744519384401, 13.985443133940594, 13.955357173215988, 13.66200950965315, 13.654173984886638, 13.653034448482922, 13.80021916788452, 13.586075397104235, 13.719116083108661, 13.583214020494324, 13.589127937600038, 13.672699895090682, 13.705050432101478, 13.498231336528814, 13.644552628474258, 13.477045416510544, 13.728760248013037, 13.62083757101465, 13.268791130586333, 13.961848786445259, 13.16231437392341, 13.897960621154146, 13.651292440258297, 13.32193116995967, 13.836581170206252, 13.984052266956928, 13.391921502548566, 13.338942477193418, 13.734120625760601, 13.784765316876115, 13.62490739394747, 13.578432098569836, 13.469299551587945, 13.693304680005346, 13.519859111359391, 13.802570152629956, 13.567135944109765, 13.726996898783336, 13.566494059144452, 13.764464110180944, 13.402750195141794, 13.68114851782238, 13.67636041000223, 13.602681415407412, 13.409575246209268, 13.575355824348893, 13.685251525703986, 13.474971081888311, 13.520022651525457, 13.818145708330128, 13.700150972159431, 13.599289048906217, 13.715603074987827, 13.61255804308854, 13.229425998878774, 13.650019827704511, 13.77540887231801, 13.507578680130086, 13.438482605133636, 13.807685145664719, 13.769878891801627, 13.603107954348133, 13.715225891726119, 13.478092782557471, 13.50853031030827, 13.553496888703563, 13.537001058104924, 14.008648743687079, 13.21980258334389, 13.576829313557552, 13.752526820099419, 13.664313977962305, 13.353814488829705, 14.003718606085076, 13.803679405404706, 13.671055431464936, 13.515671263868922, 13.459395479489887, 13.932650942102187, 13.570248044444712, 13.644461440772597, 13.747348262441964, 13.520246307138114, 13.582499851456296, 13.759534470512651, 13.363241677388245, 13.761469029347195, 13.689778150926495, 13.5683110104752, 13.54998791353192, 13.686429507224721, 13.533034028787661, 13.73416607963109, 13.681949969416427, 13.685160417234862, 13.693034953090454, 13.771806672241148, 13.582776281940708, 13.818524563200786, 13.853659740745531, 13.631454645783872, 13.53060729188065, 13.950989410722595, 13.434366465769155, 13.717290716766115, 13.579149827691968, 13.31789008836969, 13.542024244712682, 13.729356108956981, 13.749583584396245, 13.360119051139696, 13.39450125668836, 13.606483568508603, 13.417775978012653, 13.698001082519907, 13.607527474100873, 13.806227997677286, 13.994394597800227, 13.569032300475094, 13.680366617062099, 13.907875522407057, 13.235992905224174, 13.683339055359498, 13.698022065506356, 13.58163120676257, 13.561948424473664, 13.80950569104902, 13.572051119670432, 13.735451228618315, 13.356404063076734, 13.836127875070105, 13.71976276959373, 13.648627846322794, 13.565885252699106, 13.967257820489532, 13.418250171304807, 13.900549974604031, 13.872710323235976, 13.543614018804604, 13.760495432843548, 13.768360280461314, 13.877090540271844, 13.793081874123276, 13.947958048621922, 13.862477084185091, 13.519540226701615, 13.411388052925977, 13.719991761962108, 13.590181197724215, 13.745479916613016, 13.795526446997227, 13.670471841264437, 13.75586157407829, 13.761278295613591, 13.565365348634536, 13.3679757848576, 13.824624055197518, 13.667592407598395, 13.61351484650727, 13.70678942566566, 13.711024566154556, 13.489630721172892, 13.608477481689311, 13.719582187818718, 13.528744088264252, 13.729634135600522, 13.651931308309736, 13.556069749669543, 13.350714961074477, 13.651560326430895, 13.668536354398569, 13.461240102114386, 13.665609315886476, 13.786234147614989, 13.82996164483715, 13.815864247405226, 13.910466409155466, 13.552732960934346, 13.633089024383857, 13.459352320068767, 13.921863456733712, 13.741674616277642, 13.71581546453779, 13.494341954522453, 13.431458106877898, 13.673098129521277, 13.577891566861048, 13.811175653825346, 13.894857105039039, 13.776594432254246, 13.784059222488766, 13.46442390973334, 13.748023603611756, 13.295353142739792, 13.781160705615672, 13.257802716258015, 13.665122839481706, 13.625505538282406, 13.553453536694539, 13.853391823932975, 13.615965548472662, 13.6175157843343, 13.470254413960102, 13.663016933777712, 13.537610984198032, 13.423061244586194, 13.40095712715782, 13.398522560623775, 13.323408968077493, 13.454876125461999, 13.588550228094082, 13.43335112530298, 13.805895466514379, 13.60259433974618, 13.951690090680769, 13.391386777795061, 13.491074764925115, 13.670309781943953, 13.756762813284308, 13.604915258026496]
+Swarm Average Merges
+[2236.4, 2410.3, 2594.3, 2811.3, 3023.7, 3245.8, 3467.3, 3643.7, 3775.2, 3855.5, 3947.5, 4008, 4052.2, 4061.9, 4098.6, 4118.7, 4136, 4131.8, 4105.1, 4127.9, 4147, 4122.3, 4117.1, 4126.1, 4122.1, 4121, 4128, 4119.9, 4103.9, 4140, 4119.9, 4121.6, 4125.5, 4118.5, 4120.7, 4118.4, 4129.5, 4119.8, 4134.8, 4123.2, 4120.5, 4119.9, 4140.5, 4136.8, 4132.9, 4113.9, 4131.5, 4134.6, 4119.1, 4102.1, 4123.3]
+Swarm Average Collisions
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Swarm Average Loop Speeds
+[10.139349286940865, 10.686592890044947, 11.447749528025309, 12.243825125962442, 13.042119443597315, 13.762139970971809, 14.361538828341684, 15.080266816799798, 15.923971576242291, 16.70517635914475, 17.00841186625584, 17.210876358096105, 17.67176496731214, 18.011356102882747, 18.0992041245091, 18.45448112226189, 18.58171043659872, 18.781031924980923, 18.836036265000256, 18.555180201628612, 18.741162770972334, 18.83169329462829, 18.629627413855804, 18.66599441635666, 18.769142700941135, 18.758023218565594, 18.71583883284101, 18.72582209482237, 18.67986868091952, 18.721096581972557, 18.614017712760994, 18.599786170120222, 18.797303496744995, 18.694874902124965, 18.777910023546063, 18.70015550179618, 18.6804000158994, 18.742702544719883, 18.66352843976993, 18.717811028423526, 18.739915011521365, 18.756476426409936, 18.766998323552325, 18.659300408651134, 18.802121062918562, 18.736329354553035, 18.651893620917114, 18.76802381342568, 18.710255672231156, 18.824420722405378, 18.597193534224115]
+Swarm Average Merge Speeds
+[8.712761376932015, 9.508260236514035, 10.186954211285979, 10.932118616811714, 11.530533264083086, 12.078339456867887, 12.471445563271308, 12.868094338872364, 13.123783887949296, 13.306890046888963, 13.4877150887651, 13.485594467065809, 13.56951767483745, 13.560399527419007, 13.67208686078123, 13.69449182832164, 13.720448296952199, 13.658233566568327, 13.555443287950059, 13.656184507492807, 13.772643002880768, 13.590159676533343, 13.58493562981061, 13.642603813468684, 13.598570395890633, 13.597358891408549, 13.645890741921644, 13.582026071820266, 13.617155642016352, 13.731738743815544, 13.616694538236509, 13.61038819648374, 13.631346400031845, 13.584626257637986, 13.603620226897176, 13.597061441813862, 13.672707445975185, 13.618687811399068, 13.704054221351338, 13.618271238504995, 13.613442992398479, 13.614222128214783, 13.723328148496824, 13.723554898359037, 13.672900002641452, 13.59973695261849, 13.678308652679924, 13.703877048645046, 13.602829703883897, 13.49051896906501, 13.629653064631333]
+Swarm Average Fitness
+[7.6073960190709355, 7.714610314989257, 7.810416553004061, 7.904447357910112, 7.986389082094419, 8.062849868335014, 8.132569821034604, 8.186652974726544, 8.226010712977697, 8.250472822283776, 8.2766267478835, 8.293707699465312, 8.305780891453445, 8.308760402996015, 8.318173450718641, 8.323259883749481, 8.327476813281452, 8.326463197272949, 8.319943780421278, 8.325512131711351, 8.330134473117567, 8.324146600757581, 8.322884363428152, 8.32506968983131, 8.324103493457967, 8.323839030285269, 8.325522834577335, 8.32356599298098, 8.319590313314121, 8.32843851711163, 8.323556834737339, 8.323953728586474, 8.324935051835537, 8.323236803413707, 8.323761634516124, 8.323192096705434, 8.325884645851172, 8.323548321422578, 8.32719196919124, 8.324361930238075, 8.32370199703141, 8.32355790389742, 8.328556170538562, 8.327660628674167, 8.326719084113249, 8.322117653299186, 8.326380766901458, 8.327129871270913, 8.323363837874913, 8.319243556451886, 8.324390849672865]
+GB Merges
+[3194, 3254, 3331, 3477, 3622, 3816, 4116, 4132, 4162, 4162, 4181, 4181, 4181, 4181, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188, 4188]
+GB Collisions
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+GB Loop Speeds
+[18.126113641081787, 12.78321543717167, 21.796940313059316, 20.76348403159231, 19.76291047033405, 18.7638574996436, 19.357228083955007, 18.265564982078793, 18.7650348492475, 18.7650348492475, 18.286707927214657, 18.286707927214657, 18.286707927214657, 18.286707927214657, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433, 18.737221908585433]
+GB Merge Speeds
+[13.813093606577652, 12.696029279419061, 13.837967218786835, 13.73411365245813, 13.870768159423042, 13.686804948994766, 13.533800991187556, 13.718462489656666, 13.736579883721419, 13.736579883721419, 13.983326354581727, 13.983326354581727, 13.983326354581727, 13.983326354581727, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418, 14.037257868838418]
+GB Fitness
+[8.0690293287749579, 8.087640287778983, 8.11102783819368, 8.153925132007862, 8.19478163844336, 8.246958032568177, 8.32263709695394, 8.326516830239528, 8.33375100695358, 8.33375100695358, 8.338305731356565, 8.338305731356565, 8.338305731356565, 8.338305731356565, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427, 8.339978571990427]
+GB Changes
+15
+ Retrying in 1 seconds

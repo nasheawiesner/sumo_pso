@@ -1,0 +1,21 @@
+1
+ Retrying in 1 seconds
+Could not connect to TraCI server at localhost:63189 [Errno 61] Connection refused
+ Retrying in 1 seconds
+Could not connect to TraCI server at localhost:63189 [Errno 61] Connection refused
+ Retrying in 1 seconds
+Could not connect to TraCI server at localhost:63189 [Errno 61] Connection refused
+ Retrying in 1 seconds
+Could not connect to TraCI server at localhost:63189 [Errno 61] Connection refused
+ Retrying in 1 seconds
+Could not connect to TraCI server at localhost:63189 [Errno 61] Connection refused
+ Retrying in 1 seconds
+Could not connect to TraCI server at localhost:63189 [Errno 61] Connection refused
+ Retrying in 1 seconds
+1/9
+Total Merge: 508
+Total Collisions: 0
+Merge Speed: 12.983559650569852
+Loop Speed: 24.071390678035254
+2
+ Retrying in 1 seconds

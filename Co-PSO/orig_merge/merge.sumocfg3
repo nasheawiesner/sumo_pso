@@ -1,0 +1,10 @@
+<configuration>
+	<input>
+		<net-file value="merge.net.xml"/>
+		<route-files value="merge.rou.xml"/>
+		<additional-files value="merge.add3.xml"/>
+	</input>
+	<output>
+   		<netstate-dump value="merge_output.txt" />
+	</output>
+</configuration>	 

@@ -1,0 +1,102 @@
+<routes>
+	<vType id="krauss"
+			vClass="passenger" length="5" accel="2.6" decel="4.5" carFollowModel="Krauss"
+			sigma="0.5" tau="1" maxSpeed="30"/>
+	<vType id="krauss_merge"
+			vClass="passenger" length="5" accel="2.6" decel="4.5" carFollowModel="Krauss"
+			sigma="0.5" tau="1" maxSpeed="30" minGap="0"/>
+	<vType id="krauss_control"
+			vClass="passenger" length="5" accel="2.6" decel="4.5" carFollowModel="Krauss"
+			sigma="0.5" tau="1" maxSpeed="30" minGap="0" />
+	<vType id="kOrig"
+			vClass="passenger" length="5" accel="3.5" decel="2.2" carFollowModel="KraussOrig1"
+			sigma="1.0" maxSpeed="25"/>
+	<vType id="bkerner"
+			vClass="passenger" length="5" accel="3.5" decel="2.2" carFollowModel="BKerner"
+			sigma="1.0" maxSpeed="25"/>
+	<vType id="idm"
+			vClass="passenger" length="5" accel="3.5" decel="2.2" carFollowModel="IDM"
+			sigma="1.0" maxSpeed="25"/>
+	<vType id="idmm"
+			vClass="passenger" length="5" accel="3.5" decel="2.2" carFollowModel="IDMM"
+			sigma="1.0" maxSpeed="25"/>
+	<vType id="wiedemann"
+			vClass="passenger" length="5" accel="3.5" decel="2.2" carFollowModel="Wiedemann"
+			sigma="1.0" maxSpeed="25"/>
+	<vType id="w99"
+			vClass="passenger" length="5" accel="3.5" decel="2.2" carFollowModel="W99"
+			sigma="0.0" tau="1" maxSpeed="25"/>
+	<vType id="daniel"
+			vClass="passenger" length="5" accel="3.5" decel="2.2" carFollowModel="Daniel1"
+			sigma="1.0" maxSpeed="25"/>
+	<vType id="acc"
+			vClass="passenger" length="5" accel="3.5" decel="2.2" carFollowModel="ACC"
+			sigma="1.0" maxSpeed="25"/>
+	<vType id="cacc"
+			vClass="passenger" length="5" accel="3.5" decel="2.2" carFollowModel="CACC"
+			sigma="1.0" maxSpeed="25"/>
+	<route id="route_0" edges="e4 e5 e6 e7 e8 e1 e2 e3"/>
+
+	<route id="route_1" edges="e5 e6 e7 e8 e1 e2 e3 e4"/>
+
+	<route id="route_2" edges="e6 e7 e8 e1 e2 e3 e4 e5"/>
+
+	<route id="route_3" edges="e7 e8 e1 e2 e3 e4 e5 e6"/>
+
+	<route id="route_4" edges="e8 e1 e2 e3 e4 e5 e6 e7"/>
+
+	<route id="route_5" edges="e1 e2 e3 e4 e5 e6 e7 e8"/>
+
+	<route id="route_6" edges="e2 e3 e4 e5 e6 e7 e8 e1"/>
+
+	<route id="route_7" edges="e3 e4 e5 e6 e7 e8 e1 e2"/>
+
+	<route id="merge_route_0" edges="e5 e6 e7 e8 e1 out in e4"/>
+
+	<route id="merge_route_1" edges="e6 e7 e8 e1 out in e4 e5"/>
+
+	<route id="merge_route_2" edges="e7 e8 e1 out in e4 e5 e6"/>
+
+	<route id="merge_route_3" edges="e8 e1 out in e4 e5 e6 e7"/>
+
+	<route id="merge_route_4" edges="e1 out in e4 e5 e6 e7 e8"/>
+
+	<route id="merge_route_5" edges="out in e4 e5 e6 e7 e8 e1"/>
+
+	<route id="merge_route_6" edges="in e4 e5 e6 e7 e8 e1 out"/>
+
+	<route id="merge_route_7" edges="e4 e5 e6 e7 e8 e1 out in"/>
+
+	<!--route id="route_8" edges="out in e4 e5 e6 e7 e8 e1 e2 e3"/>
+
+	<route id="route_9" edges="in e4 e5 e6 e7 e8 e1 e2 e3">
+
+	<vehicle id="0" type = "krauss" route="route_0" depart="0"/>
+
+	<vehicle id="1" type = "krauss_control" route="route_1" depart="0" color="0,0,1"/>
+
+	<vehicle id="2" type = "krauss_control" route="route_3" depart="0" color="0,0,1"/>
+
+	<vehicle id="3" type = "krauss_control" route="route_3" depart="0" color="0,0,1"/>
+
+	<vehicle id="4" type = "krauss_control" route="route_3" depart="0" color="0,0,1"/>
+
+	<vehicle id="5" type = "krauss_control" route="route_5" depart="0" color="0,0,1"/>
+
+	<vehicle id="6" type = "krauss_control" route="route_3" depart="0" color="0,0,1"/>
+
+	<vehicle id="7" type = "krauss_control" route="route_7" depart="0" color="0,0,1"/>
+
+	<vehicle id="8" type = "krauss_control" route="route_3" depart="0" color="0,0,1"/>
+
+	<vehicle id="9" type = "krauss_control" route="route_9" depart="0" color="0,0,1"/>
+
+	<flow id="carflow" type="car" beg="0" end = "0" number="10" from="e1" to="e8"/>
+	
+	<flow id="exit" type="car" beg="0" end = "10000" from="e1" to="out" probability="0.1"/>
+
+	<flow id="exit_2_merge" type="car" beg="0" end = "10000" from="out" to="in" probability="1"/>
+
+	<flow id="merge" type="car" beg="0" end = "10000" from="e1" to="out" probability="0.1"/>-->
+
+</routes>
