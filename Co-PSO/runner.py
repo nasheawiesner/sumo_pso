@@ -124,4 +124,16 @@ def calc_fitness_best(initial, num_pso, s, merges, collisions):
             #copy global best to the end of array to track changes
             global_best_fitness_vec[pso].append(global_best_fitness_vec[pso][-1])
             global_best_vec[pso].append(global_best_vec[pso][-1])
-coordinate(1,99,3)
+
+def krauss_baseline(num_merge, num_krauss, scenario):
+    orig_stdout = sys.stdout
+    print("(" + str(num_merge) + "," + str(num_krauss) + "," + str(scenario) + ")")
+    k = int((num_krauss / (num_krauss + num_merge)) * 100)
+    c = int((num_merge / (num_krauss + num_merge)) * 100)
+    f = open('pso_' + str(num_krauss + num_merge) + '_scenario_' + str(scenario) + '_ratio_' + str(c) + "_" + str(
+        k) + '.txt', 'a')
+    f.truncate(0)
+    sys.stdout = f
+    for i in range(10):
+        tot_merge, tot_coll, loop_speed, merge_speed, individual_merges, individual_collisions = run(num_krauss, num_merge, scenario, [])
+krauss_baseline(1,99,4)

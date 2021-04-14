@@ -25,7 +25,11 @@ def get_options():
 
 def run(num_krauss, num_control, scenario, particles):
     sumoBinary = checkBinary('sumo')
-    traci.start([sumoBinary, "-c", "lateral_merge.sumocfg" + str(scenario), "--tripinfo-output", "tripinfo.xml", "--random", "--no-warnings", "--error-log", "out.txt"])#,  "--device.rerouting.threads=4"])
+    if scenario == 4:
+        scn = 1
+    else:
+        scn = scenario
+    traci.start([sumoBinary, "-c", "lateral_merge.sumocfg" + str(scn), "--tripinfo-output", "tripinfo.xml", "--random", "--no-warnings", "--error-log", "out.txt"])#,  "--device.rerouting.threads=4"])
     orig_stdout = sys.stdout
     k = int((num_krauss/(num_krauss + num_control)) * 100)
     c = int((num_control/(num_krauss + num_control)) * 100)
@@ -53,6 +57,9 @@ def run(num_krauss, num_control, scenario, particles):
     if scenario == 3:
         k_path = "route_"
         c_path = "route_"
+    if scenario == 4: #baseline
+        k_path = "route_"
+        c_path = "merge_route_"
     for k in range(num_krauss):
         route = np.mod(k, 15)
         traci.vehicle.add(str(k), k_path + str(route), typeID="krauss", depart=0, departLane="first",
@@ -66,7 +73,8 @@ def run(num_krauss, num_control, scenario, particles):
                           arrivalPos='max', arrivalSpeed='current', fromTaz='', toTaz='', line='', personCapacity=0,
                           personNumber=0)
         #traci.vehicle.subscribe(str(c), (tc.VAR_ROAD_ID, tc.VAR_LANEPOSITION))
-        car_list.append(str(c + num_krauss))
+        if scenario != 4:
+            car_list.append(str(c + num_krauss))
     previous = ""
     collision_vec = [0] * len(car_list)
     merge_vec = [0] * len(car_list)
@@ -79,7 +87,7 @@ def run(num_krauss, num_control, scenario, particles):
                 a, b, c, d, e = test[0]
                 #if a != previous:
                 total_merge += 1
-                if e == "krauss_control":
+                if e == "krauss_control" and scenario != 4:
                     merge_vec[int(a)-num_krauss] += 1
                 #previous = a
             collisions += traci.simulation.getCollidingVehiclesNumber()

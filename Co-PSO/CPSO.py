@@ -1,21 +1,18 @@
 
 import numpy as np
 import time as time
-import matplotlib.pyplot as plt
-import matplotlib as mpl
 from merge_co_pso import run
 import statistics
 import math
 import csv
 import copy
 
-plt.close('all')
-swarm_size = 10  # number of the swarm particles
+swarm_size = 20  # number of the swarm particles
 iterations = 50  # maximum number of iterations
 inertia = 0.5  # inertia of a particle
 dimensions = 19  # number of values the PSO will optimize
-local_weight = 1.5  # weighted factor for the particles historical best
-global_weight = 1.5  # weighted factor for the the global best
+local_weight = 0.7  # weighted factor for the particles historical best
+global_weight = 0.7  # weighted factor for the the global best
 max_velocity = 1  # the highest velocity allowed for a particle
 step_size = 1  # step size for updating each particle, or how far a particle
                 # travels before its velocity is readjusted
